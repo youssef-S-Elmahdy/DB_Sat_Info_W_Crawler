@@ -1,0 +1,1153 @@
+NetName,SatName,Frequency,Systems
+American Forces Network,NSS 9,4055 L,DVB-S2
+American Forces Network,Intelsat 18,3753 R,DVB-S2
+American Forces Network,Intelsat 18,3753 R,8PSK
+American Forces Network,Koreasat 5A,12470 V,DVB-S2
+American Forces Network,Koreasat 5A,12470 V,8PSK
+American Forces Network,Koreasat 5A,12590 V,DVB-S2
+American Forces Network,Koreasat 5A,12590 V,8PSK
+American Forces Network,NSS 12,4095 L,DVB-S2
+American Forces Network,NSS 12,4095 L,QPSK
+American Forces Network,Eutelsat 9B,11804 V,DVB-S2
+American Forces Network,Eutelsat 9B,11804 V,8PSK
+American Forces Network,Intelsat 35e,4126 L,DVB-S2
+American Forces Network,Intelsat 35e,4126 L,QPSK
+Anuvu,Intelsat 18,4095 R,DVB-S2
+Anuvu,Intelsat 18,4095 R,QPSK
+Anuvu,NSS 12,4095 R,DVB-S2
+Anuvu,NSS 12,4095 R,QPSK
+Anuvu,Astra 4A,12226 H,DVB-S2
+Anuvu,Astra 4A,12226 H,QPSK
+Anuvu,Intelsat 35e,4132 R,DVB-S2
+Anuvu,Intelsat 35e,4132 R,QPSK
+Anuvu,Telstar 14R,11564 H,DVB-S2
+Anuvu,Telstar 14R,11564 H,QPSK
+Walesi,Eutelsat 172B,3947 H,DVB-S2
+Walesi,Eutelsat 172B,3947 H,8PSK
+MySat,Horizons 3e,11003 H,DVB-S2
+MySat,Horizons 3e,11003 H,QPSK
+MySat,AsiaSat 9,12415 V,DVB-S
+Warner Bros. Discovery,Intelsat 19,3840 V,DVB-S2
+Warner Bros. Discovery,Intelsat 19,3840 V,8PSK
+Warner Bros. Discovery,Intelsat 19,3980 H,DVB-S2
+Warner Bros. Discovery,Intelsat 19,3980 H,8PSK
+Warner Bros. Discovery,Intelsat 19,4040 V,DVB-S2
+Warner Bros. Discovery,Intelsat 19,4040 V,8PSK
+Warner Bros. Discovery,Intelsat 19,4080 V,DVB-S2
+Warner Bros. Discovery,Intelsat 19,4080 V,8PSK
+Warner Bros. Discovery,Intelsat 20,3739 H,DVB-S2
+Warner Bros. Discovery,Intelsat 20,3739 H,8PSK
+Warner Bros. Discovery,Eutelsat 21B,10723 V,DVB-S2
+Warner Bros. Discovery,Eutelsat 21B,10723 V,QPSK
+Warner Bros. Discovery,Hotbird 13F,11258 H,DVB-S2
+Warner Bros. Discovery,Hotbird 13F,11258 H,8PSK
+Warner Bros. Discovery,Hotbird 13F,11334 H,DVB-S2
+Warner Bros. Discovery,Hotbird 13F,11334 H,8PSK
+Warner Bros. Discovery,Hotbird 13F,11393 V,DVB-S2
+Warner Bros. Discovery,Hotbird 13F,11393 V,8PSK
+Warner Bros. Discovery,Hotbird 13F,11508 V,DVB-S2
+Warner Bros. Discovery,Hotbird 13F,11508 V,8PSK
+Warner Bros. Discovery,Eutelsat 9B,11881 V,DVB-S2
+Warner Bros. Discovery,Eutelsat 9B,11881 V,8PSK
+Warner Bros. Discovery,Eutelsat 9B,11919 V,DVB-S2
+Warner Bros. Discovery,Eutelsat 9B,11919 V,8PSK
+Warner Bros. Discovery,Intelsat 21,3840 V,DVB-S2
+Warner Bros. Discovery,Intelsat 21,3840 V,8PSK
+Warner Bros. Discovery,Intelsat 21,3880 V,DVB-S2
+Warner Bros. Discovery,Intelsat 21,3880 V,8PSK
+Warner Bros. Discovery,Intelsat 21,3960 V,DVB-S2
+Warner Bros. Discovery,Intelsat 21,3960 V,8PSK
+Warner Bros. Discovery,Intelsat 21,4120 H,DVB-S2
+Warner Bros. Discovery,Intelsat 21,4120 H,8PSK
+Warner Bros. Discovery,SES 1,4020 H,DVB-S2
+Warner Bros. Discovery,SES 1,4020 H,8PSK
+Warner Bros. Discovery,Galaxy 37/Horizons 4,4180 H,DVB-S2
+Warner Bros. Discovery,Galaxy 37/Horizons 4,4180 H,8PSK
+Paramount International Networks,Intelsat 19,3930 H,DVB-S2
+Paramount International Networks,Intelsat 19,3930 H,8PSK
+Paramount International Networks,Astra 1M,11973 V,DVB-S
+Paramount International Networks,Thor 6,12226 V,DVB-S
+China Radio International,Intelsat 19,3956 V,DVB-S
+China Radio International,Intelsat 20,4083 V,DVB-S
+China Radio International,Intelsat 14,11605 H,DVB-S
+Intelsat,Intelsat 19,4060 H,DVB-S2
+Intelsat,Intelsat 19,4060 H,8PSK
+Intelsat,Intelsat 20,4064 H,DVB-S
+Intelsat,Intelsat 20,12522 H,DVB-S2
+Intelsat,Intelsat 20,12522 H,QPSK
+Intelsat,Intelsat 21,3840 H,DVB-S
+Intelsat,Galaxy 19,12184 H,DVB-S2
+Intelsat,Galaxy 19,12184 H,8PSK
+NHK World Network,Intelsat 19,4146 H,DVB-S2
+NHK World Network,Intelsat 19,4146 H,QPSK
+NHK World Network,Intelsat 20,4128 H,DVB-S2
+NHK World Network,Intelsat 20,4128 H,QPSK
+NHK World Network,Intelsat 21,4166 H,DVB-S2
+NHK World Network,Intelsat 21,4166 H,QPSK
+Pasifika TV,Intelsat 19,4146 V,DVB-S2
+Pasifika TV,Intelsat 19,4146 V,8PSK
+BBC World Service,Intelsat 19,4161 V,DVB-S2
+BBC World Service,Intelsat 19,4161 V,QPSK
+BBC World Service,AsiaSat 5,4132 H,DVB-S2
+BBC World Service,AsiaSat 5,4132 H,QPSK
+BBC World Service,SES 5,4000 R,DVB-S2
+BBC World Service,SES 5,4000 R,QPSK
+BBC World Service,SES 5,4087 L,DVB-S2
+BBC World Service,SES 5,4087 L,8PSK
+BBC World Service,Intelsat 34,4131 H,DVB-S2
+BBC World Service,Intelsat 34,4131 H,QPSK
+ABS-CBN,Intelsat 19,4180 H,DVB-S2
+ABS-CBN,Intelsat 19,4180 H,8PSK
+ABC Sydney,Optus D2,12443 V,DVB-S2
+ABC Sydney,Optus D2,12443 V,QPSK
+ABC Melbourne,Optus D2,12445 V,DVB-S2
+ABC Melbourne,Optus D2,12445 V,QPSK
+Freeview,Optus D2,12456 H,DVB-S
+Freeview,Optus D2,12483 H,DVB-S
+ABC NSW,Optus D2,12470 H,DVB-S2
+ABC NSW,Optus D2,12470 H,ACM
+ABC NSW,Optus D2,12658 H,DVB-S2
+ABC NSW,Optus D2,12658 H,ACM
+ABC SA,Optus D2,12470 H,DVB-S2
+ABC SA,Optus D2,12470 H,ACM
+ABC SA,Optus D2,12658 H,DVB-S2
+ABC SA,Optus D2,12658 H,ACM
+ABC NT,Eutelsat 172B,11044 V,DVB-S2
+ABC NT,Eutelsat 172B,11044 V,16APSK
+ABC NT,Optus D2,12470 H,DVB-S2
+ABC NT,Optus D2,12470 H,ACM
+ABC NT,Optus D2,12658 H,DVB-S2
+ABC NT,Optus D2,12658 H,ACM
+ABC WA,Eutelsat 172B,11044 V,DVB-S2
+ABC WA,Eutelsat 172B,11044 V,16APSK
+ABC WA,Optus D2,12470 H,DVB-S2
+ABC WA,Optus D2,12470 H,ACM
+ABC WA,Optus D2,12658 H,DVB-S2
+ABC WA,Optus D2,12658 H,ACM
+ABC Victoria,Optus D2,12470 H,DVB-S2
+ABC Victoria,Optus D2,12470 H,ACM
+ABC Victoria,Optus D2,12658 H,DVB-S2
+ABC Victoria,Optus D2,12658 H,ACM
+ABC Queensland,Eutelsat 172B,11044 V,DVB-S2
+ABC Queensland,Eutelsat 172B,11044 V,16APSK
+ABC Queensland,Optus D2,12470 H,DVB-S2
+ABC Queensland,Optus D2,12470 H,ACM
+ABC Queensland,Optus D2,12658 H,DVB-S2
+ABC Queensland,Optus D2,12658 H,ACM
+Bricast,BRIsat,3532 H,DVB-S2
+Bricast,BRIsat,3532 H,8PSK
+Bricast,BRIsat,3855 V,DVB-S2
+Bricast,BRIsat,3855 V,8PSK
+RTRS 1,Express AMU7,3662 R,DVB-S2
+RTRS 1,Express AMU7,3662 R,8PSK
+RTRS 1,Express AMU7,3714 R,DVB-S2
+RTRS 1,Express AMU7,3714 R,8PSK
+RTRS 1,Express AMU3,3688 R,DVB-S2
+RTRS 1,Express AMU3,3688 R,8PSK
+RTRS 1,Express AMU3,3785 R,DVB-S2
+RTRS 1,Express AMU3,3785 R,8PSK
+RTRS 1,Yamal 401,3640 R,DVB-S2
+RTRS 1,Yamal 401,3640 R,8PSK
+RTRS 1,Yamal 401,3705 L,DVB-S2
+RTRS 1,Yamal 401,3705 L,8PSK
+RTRS 1,Yamal 401,3786 R,DVB-S2
+RTRS 1,Yamal 401,3786 R,8PSK
+RTRS 1,Yamal 401,4064 R,DVB-S2
+RTRS 1,Yamal 401,4064 R,8PSK
+RTRS 1,Express AM6,10718 H,DVB-S2
+RTRS 1,Express AM6,10718 H,QPSK
+RTRS 1,Express AM6,10840 V,DVB-S2
+RTRS 1,Express AM6,10840 V,8PSK
+RTRS 1,Express AM6,10937 V,DVB-S2
+RTRS 1,Express AM6,10937 V,8PSK
+RTRS 1,Yamal 601,3627 L,DVB-S2
+RTRS 1,Yamal 601,3627 L,QPSK
+RTRS 1,Yamal 601,3643 R,DVB-S2
+RTRS 1,Yamal 601,3643 R,8PSK
+RTRS 1,Yamal 601,3704 L,DVB-S2
+RTRS 1,Yamal 601,3704 L,8PSK
+RTRS 1,Yamal 601,3977 L,DVB-S2
+RTRS 1,Yamal 601,3977 L,8PSK
+RTRS 1,Cosmos 2520,3720 L,DVB-S2
+RTRS 1,Cosmos 2520,3720 L,QPSK
+RTRS 1,Express AM7,3665 L,DVB-S2
+RTRS 1,Express AM7,3665 L,8PSK
+RTRS 1,Express AM7,4085 L,DVB-S2
+RTRS 1,Express AM7,4085 L,8PSK
+RTRS,Express AMU7,3662 R,DVB-S2
+RTRS,Express AMU7,3662 R,8PSK
+RTRS,Express AMU7,3714 R,DVB-S2
+RTRS,Express AMU7,3714 R,8PSK
+RTRS,Express AMU3,3688 R,DVB-S2
+RTRS,Express AMU3,3688 R,8PSK
+RTRS,Express AMU3,3785 R,DVB-S2
+RTRS,Express AMU3,3785 R,8PSK
+RTRS,Yamal 401,3640 R,DVB-S2
+RTRS,Yamal 401,3640 R,8PSK
+RTRS,Yamal 401,3705 L,DVB-S2
+RTRS,Yamal 401,3705 L,8PSK
+RTRS,Yamal 401,3786 R,DVB-S2
+RTRS,Yamal 401,3786 R,8PSK
+RTRS,Yamal 401,4064 R,DVB-S2
+RTRS,Yamal 401,4064 R,8PSK
+RTRS,Express AM6,10718 H,DVB-S2
+RTRS,Express AM6,10718 H,QPSK
+RTRS,Express AM6,10840 V,DVB-S2
+RTRS,Express AM6,10840 V,8PSK
+RTRS,Express AM6,10937 V,DVB-S2
+RTRS,Express AM6,10937 V,8PSK
+RTRS,Yamal 601,3627 L,DVB-S2
+RTRS,Yamal 601,3627 L,QPSK
+RTRS,Yamal 601,3643 R,DVB-S2
+RTRS,Yamal 601,3643 R,8PSK
+RTRS,Yamal 601,3977 L,DVB-S2
+RTRS,Yamal 601,3977 L,8PSK
+RTRS,Cosmos 2520,3720 L,DVB-S2
+RTRS,Cosmos 2520,3720 L,QPSK
+RTRS,Express AM7,3665 L,DVB-S2
+RTRS,Express AM7,3665 L,8PSK
+RTRS,Express AM7,4085 L,DVB-S2
+RTRS,Express AM7,4085 L,8PSK
+GMA Network,Telstar 18 Vantage,3745 H,DVB-S2
+GMA Network,Telstar 18 Vantage,3745 H,QPSK
+GMA Network,Telstar 18 Vantage,3751 H,DVB-S2
+GMA Network,Telstar 18 Vantage,3751 H,8PSK
+GMA Network,Telstar 18 Vantage,3847 H,DVB-S2
+GMA Network,Telstar 18 Vantage,3847 H,QPSK
+GMA Network,Apstar 7,3850 V,DVB-S2
+GMA Network,Apstar 7,3850 V,8PSK
+GMA Network,SES 22,4015 V,DVB-S2
+GMA Network,SES 22,4015 V,8PSK
+Solar Entertainment,Telstar 18 Vantage,3835 H,DVB-S2
+Solar Entertainment,Telstar 18 Vantage,3835 H,8PSK
+Solar Entertainment,Telstar 18 Vantage,3867 H,DVB-S2
+Solar Entertainment,Telstar 18 Vantage,3867 H,8PSK
+Zoe Broadcasting Network,Telstar 18 Vantage,3872 H,DVB-S2
+Zoe Broadcasting Network,Telstar 18 Vantage,3872 H,8PSK
+Viva Entertainment,Telstar 18 Vantage,3876 H,DVB-S2
+Viva Entertainment,Telstar 18 Vantage,3876 H,8PSK
+People's TV,Telstar 18 Vantage,3930 V,DVB-S2
+People's TV,Telstar 18 Vantage,3930 V,8PSK
+SpeedCast,Telstar 18 Vantage,3946 V,DVB-S2
+SpeedCast,Telstar 18 Vantage,3946 V,8PSK
+TV 5 Network,Telstar 18 Vantage,4081 H,DVB-S2
+TV 5 Network,Telstar 18 Vantage,4081 H,8PSK
+VTV,Apstar 6C,3418 H,DVB-S2
+VTV,Apstar 6C,3418 H,8PSK
+MWD Digital TV,LaoSat 1,3576 V,DVB-S2
+MWD Digital TV,LaoSat 1,3576 V,8PSK
+LaoSat,LaoSat 1,3651 V,DVB-S2
+LaoSat,LaoSat 1,3651 V,8PSK
+CCTV,Apstar 6C,3940 V,DVB-S2
+CCTV,Apstar 6C,3940 V,8PSK
+CCTV,Apstar 6C,4020 V,DVB-S2
+CCTV,Apstar 6C,4020 V,8PSK
+CCTV,Apstar 6C,4060 V,DVB-S2
+CCTV,Apstar 6C,4060 V,8PSK
+CCTV,ChinaSat 6D,3720 H,DVB-S
+CCTV,ChinaSat 6D,3780 V,DVB-S
+CCTV,ChinaSat 6D,3820 V,DVB-S
+CCTV,ChinaSat 6D,4060 V,DVB-S
+CCTV,ChinaSat 6D,4100 V,DVB-S
+CCTV,ChinaSat 6D,4130 V,DVB-S
+CCTV,ChinaSat 6D,4145 V,DVB-S
+CCTV,ChinaSat 6E,3840 H,DVB-S
+CCTV,ChinaSat 6E,3880 H,DVB-S
+CCTV,ChinaSat 6E,3920 H,DVB-S
+CCTV,ChinaSat 6E,4116 H,DVB-S
+CCTV,ChinaSat 9,11750 R,ABS-S
+CCTV,ChinaSat 9,11810 R,ABS-S
+CCTV,ChinaSat 9,11860 R,ABS-S
+CCTV,ChinaSat 9,12040 L,ABS-S
+CCTV,ChinaSat 9,12100 R,ABS-S
+CCTV,ChinaSat 9,12120 L,ABS-S
+CCTV,Hotbird 13G,11585 V,DVB-S2
+CCTV,Hotbird 13G,11585 V,8PSK
+CCTV,Intelsat 34,4175 H,DVB-S2
+CCTV,Intelsat 34,4175 H,8PSK
+CCTV,Galaxy 19,12084 V,DVB-S
+Shanghai Media Group,ChinaSat 6D,3794 H,DVB-S
+Shanghai Media Group,ChinaSat 6D,3940 V,DVB-S
+Shanghai Media Group,ChinaSat 6E,3808 H,DVB-S
+Shanghai Media Group,AsiaSat 7,3715 H,DVB-S
+Xizang TV,ChinaSat 6D,3989 H,DVB-S
+Xinjiang TV,ChinaSat 6D,4120 H,DVB-S
+Sky PerfecTV!,JCSAT 3A,12428 V,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12428 V,8PSK
+Sky PerfecTV!,JCSAT 3A,12523 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12523 H,8PSK
+Sky PerfecTV!,JCSAT 3A,12568 V,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12568 V,8PSK
+Sky PerfecTV!,JCSAT 3A,12583 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12583 H,8PSK
+Sky PerfecTV!,JCSAT 3A,12598 V,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12598 V,8PSK
+Sky PerfecTV!,JCSAT 3A,12613 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12613 H,8PSK
+Sky PerfecTV!,JCSAT 3A,12628 V,DVB-S
+Sky PerfecTV!,JCSAT 3A,12643 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12643 H,8PSK
+Sky PerfecTV!,JCSAT 3A,12673 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12673 H,8PSK
+Sky PerfecTV!,JCSAT 3A,12688 V,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12688 V,8PSK
+Sky PerfecTV!,JCSAT 3A,12703 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12703 H,8PSK
+Sky PerfecTV!,JCSAT 3A,12718 V,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12718 V,8PSK
+Sky PerfecTV!,JCSAT 3A,12733 H,DVB-S2
+Sky PerfecTV!,JCSAT 3A,12733 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12448 V,DVB-S
+Sky PerfecTV!,JCSAT 4B,12523 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12523 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12553 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12553 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12568 V,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12568 V,8PSK
+Sky PerfecTV!,JCSAT 4B,12583 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12583 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12598 V,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12598 V,8PSK
+Sky PerfecTV!,JCSAT 4B,12613 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12613 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12628 V,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12628 V,8PSK
+Sky PerfecTV!,JCSAT 4B,12643 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12643 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12673 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12673 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12688 V,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12688 V,8PSK
+Sky PerfecTV!,JCSAT 4B,12703 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12703 H,8PSK
+Sky PerfecTV!,JCSAT 4B,12718 V,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12718 V,8PSK
+Sky PerfecTV!,JCSAT 4B,12733 H,DVB-S2
+Sky PerfecTV!,JCSAT 4B,12733 H,8PSK
+Sky PerfecTV!,JCSAT 15,12291 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12291 R,QPSK
+Sky PerfecTV!,JCSAT 15,12331 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12331 R,QPSK
+Sky PerfecTV!,JCSAT 15,12371 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12371 R,QPSK
+Sky PerfecTV!,JCSAT 15,12411 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12411 R,QPSK
+Sky PerfecTV!,JCSAT 15,12431 L,ISDB-S
+Sky PerfecTV!,JCSAT 15,12431 L,16APSK
+Sky PerfecTV!,JCSAT 15,12451 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12451 R,QPSK
+Sky PerfecTV!,JCSAT 15,12471 L,ISDB-S
+Sky PerfecTV!,JCSAT 15,12471 L,16APSK
+Sky PerfecTV!,JCSAT 15,12491 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12491 R,QPSK
+Sky PerfecTV!,JCSAT 15,12531 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12531 R,QPSK
+Sky PerfecTV!,JCSAT 15,12571 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12571 R,QPSK
+Sky PerfecTV!,JCSAT 15,12611 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12611 R,QPSK
+Sky PerfecTV!,JCSAT 15,12631 L,ISDB-S
+Sky PerfecTV!,JCSAT 15,12631 L,16APSK
+Sky PerfecTV!,JCSAT 15,12651 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12651 R,QPSK
+Sky PerfecTV!,JCSAT 15,12671 L,ISDB-S
+Sky PerfecTV!,JCSAT 15,12671 L,16APSK
+Sky PerfecTV!,JCSAT 15,12691 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12691 R,QPSK
+Sky PerfecTV!,JCSAT 15,12711 L,ISDB-S
+Sky PerfecTV!,JCSAT 15,12711 L,16APSK
+Sky PerfecTV!,JCSAT 15,12731 R,ISDB-S
+Sky PerfecTV!,JCSAT 15,12731 R,QPSK
+Chunghwa Telecom,AsiaSat 9,3971 V,DVB-S2
+Chunghwa Telecom,AsiaSat 9,3971 V,8PSK
+Chunghwa Telecom,ST 2,3629 H,DVB-S2
+Chunghwa Telecom,ST 2,3629 H,8PSK
+Chunghwa Telecom,ST 2,3632 V,DVB-S2
+Chunghwa Telecom,ST 2,3632 V,8PSK
+Chunghwa Telecom,ST 2,11633 H,DVB-S2
+Chunghwa Telecom,ST 2,11633 H,QPSK
+Chunghwa Telecom,ST 2,11669 H,DVB-S2
+Chunghwa Telecom,ST 2,11669 H,QPSK
+Chunghwa Telecom,ST 2,12702 H,DVB-S
+AsiaSat,AsiaSat 9,4140 V,DVB-S2
+AsiaSat,AsiaSat 9,4140 V,8PSK
+AsiaSat,AsiaSat 9,4180 V,DVB-S2
+AsiaSat,AsiaSat 9,4180 V,8PSK
+AsiaSat,AsiaSat 7,4080 H,DVB-S2
+AsiaSat,AsiaSat 7,4080 H,8PSK
+AsiaSat,AsiaSat 7,4100 V,DVB-S2
+AsiaSat,AsiaSat 7,4100 V,8PSK
+AsiaSat,AsiaSat 5,3960 H,DVB-S2
+AsiaSat,AsiaSat 5,3960 H,8PSK
+AsiaSat,AsiaSat 5,4040 H,DVB-S2
+AsiaSat,AsiaSat 5,4040 H,8PSK
+Metra TV,Telkom 3S,12316 H,DVB-S2
+Metra TV,Telkom 3S,12316 H,8PSK
+CGTN,ChinaSat 6E,3770 H,DVB-S2
+CGTN,ChinaSat 6E,3770 H,8PSK
+Sichuan TV,ChinaSat 6E,3903 V,DVB-S
+JSBC,ChinaSat 6E,3971 H,DVB-S
+CETV,ChinaSat 6E,4000 H,DVB-S
+Nei Monggol TV,ChinaSat 6E,4171 H,DVB-S
+China National Radio,ChinaSat 6E,4175 V,DVB-S
+Sahara Samay,AsiaSat 7,3652 V,DVB-S
+RTRS Yakutia,Express AMU3,3675 R,DVB-S2
+RTRS Yakutia,Express AMU3,3675 R,8PSK
+CCTV,ChinaSat 9B,12020 R,ABS-S
+BBS,G-Sat 9,11232 V,DVB-S2
+BBS,G-Sat 9,11232 V,8PSK
+BBS,G-Sat 30,4097 H,DVB-S
+RSCC,Express AMU3,3925 R,DVB-S2
+RSCC,Express AMU3,3925 R,8PSK
+RSCC,Express 103,3595 R,DVB-S2
+RSCC,Express 103,3595 R,8PSK
+RSCC,Express 103,3875 R,DVB-S2
+RSCC,Express 103,3875 R,QPSK
+RSCC,ABS 2A,12653 V,DVB-S2
+RSCC,ABS 2A,12653 V,8PSK
+RSCC,Express AT1,12284 R,DVB-S
+RSCC,Express AM6,10713 V,DVB-S2
+RSCC,Express AM6,10713 V,8PSK
+RSCC,Express AM6,10730 V,DVB-S2
+RSCC,Express AM6,10730 V,8PSK
+RSCC,Express AM6,10749 V,DVB-S2
+RSCC,Express AM6,10749 V,8PSK
+RSCC,Express AM6,10865 V,DVB-S
+RSCC,Express AM6,11481 H,DVB-S2
+RSCC,Express AM6,11481 H,QPSK
+RSCC,Express AM8,3629 R,DVB-S2
+RSCC,Express AM8,3629 R,QPSK
+RSCC,Express AM8,3675 R,DVB-S2
+RSCC,Express AM8,3675 R,8PSK
+Russkiy Mir,Express 103,3595 R,DVB-S2
+Russkiy Mir,Express 103,3595 R,8PSK
+Russkiy Mir,Express AT1,12169 R,DVB-S2
+Russkiy Mir,Express AT1,12169 R,8PSK
+Russkiy Mir,Express AT1,12245 R,DVB-S2
+Russkiy Mir,Express AT1,12245 R,8PSK
+Gazprom Space Systems,Yamal 401,3645 L,DVB-S
+Gazprom Space Systems,Yamal 401,3675 L,DVB-S
+Gazprom Space Systems,Yamal 401,11265 H,DVB-S2
+Gazprom Space Systems,Yamal 401,11265 H,8PSK
+Gazprom Space Systems,Yamal 401,11385 V,DVB-S2
+Gazprom Space Systems,Yamal 401,11385 V,8PSK
+Gazprom Space Systems,Yamal 401,11385 H,DVB-S2
+Gazprom Space Systems,Yamal 401,11385 H,8PSK
+Gazprom Space Systems,Yamal 401,12566 V,DVB-S2
+Gazprom Space Systems,Yamal 401,12566 V,8PSK
+Gazprom Space Systems,Yamal 402,11056 H,DVB-S2
+Gazprom Space Systems,Yamal 402,11056 H,QPSK
+Gazprom Space Systems,Yamal 402,11265 V,DVB-S
+Gazprom Space Systems,Yamal 402,11345 V,DVB-S2
+Gazprom Space Systems,Yamal 402,11345 V,8PSK
+Gazprom Space Systems,Yamal 402,11385 H,DVB-S2
+Gazprom Space Systems,Yamal 402,11385 H,8PSK
+Gazprom Space Systems,Yamal 601,4037 L,DVB-S
+RTRS Krasnoyarsk,Yamal 401,3675 R,DVB-S2
+RTRS Krasnoyarsk,Yamal 401,3675 R,8PSK
+RTRS Tomsk,Yamal 401,3681 R,DVB-S2
+RTRS Tomsk,Yamal 401,3681 R,8PSK
+TAS,ST 2,3672 H,DVB-S2
+TAS,ST 2,3672 H,8PSK
+TAS,Apstar 7,12561 V,DVB-S2
+TAS,Apstar 7,12561 V,QPSK
+NER Taipei,ST 2,3690 H,DVB-S
+Voice of Strait,ChinaSat 12,4035 H,DVB-S2
+Voice of Strait,ChinaSat 12,4035 H,QPSK
+Raj TV Network,ChinaSat 12,4140 V,DVB-S2
+Raj TV Network,ChinaSat 12,4140 V,8PSK
+Kantipur Media Group,Apstar 7,3634 H,DVB-S2
+Kantipur Media Group,Apstar 7,3634 H,8PSK
+Doordarshan,G-Sat 17,3925 H,DVB-S
+Doordarshan,G-Sat 10,3885 V,DVB-S2
+Doordarshan,G-Sat 10,3885 V,8PSK
+Doordarshan,G-Sat 18,3777 H,DVB-S2
+Doordarshan,G-Sat 18,3777 H,8PSK
+Doordarshan,G-Sat 18,3782 H,DVB-S2
+Doordarshan,G-Sat 18,3782 H,8PSK
+AIR,G-Sat 10,4108 V,DVB-S2
+AIR,G-Sat 10,4108 V,QPSK
+AIR,G-Sat 10,4113 V,DVB-S2
+AIR,G-Sat 10,4113 V,QPSK
+AIR,G-Sat 10,4116 V,DVB-S2
+AIR,G-Sat 10,4116 V,QPSK
+AIR,G-Sat 10,4127 V,DVB-S2
+AIR,G-Sat 10,4127 V,QPSK
+AIR,G-Sat 10,4130 V,DVB-S2
+AIR,G-Sat 10,4130 V,QPSK
+AIR,G-Sat 18,3875 H,DVB-S2
+AIR,G-Sat 18,3875 H,QPSK
+KTN,Intelsat 22,3703 L,DVB-S2
+KTN,Intelsat 22,3703 L,8PSK
+IPP Media,Intelsat 22,3928 R,DVB-S
+TBC,Intelsat 22,4120 L,DVB-S2
+TBC,Intelsat 22,4120 L,8PSK
+TRBNA,Eutelsat 70B,11050 H,DVB-S2
+TRBNA,Eutelsat 70B,11050 H,QPSK
+Voice of America,Eutelsat 70B,11069 H,DVB-S2
+Voice of America,Eutelsat 70B,11069 H,QPSK
+Voice of America,SES 5,4014 R,DVB-S2
+Voice of America,SES 5,4014 R,QPSK
+Voice of America,Telstar 12 Vantage,11026 H,DVB-S
+TV5Monde,Intelsat 17,3836 H,DVB-S2
+TV5Monde,Intelsat 17,3836 H,8PSK
+TV5Monde,Intelsat 10-02,12643 V,DVB-S2
+TV5Monde,Intelsat 10-02,12643 V,8PSK
+Tata Communications,Intelsat 17,3845 V,DVB-S2
+Tata Communications,Intelsat 17,3845 V,8PSK
+Tata Communications,Intelsat 17,3966 H,DVB-S2
+Tata Communications,Intelsat 17,3966 H,8PSK
+Tata Communications,Intelsat 17,4015 V,DVB-S2
+Tata Communications,Intelsat 17,4015 V,8PSK
+Indiasign,G-Sat 30,3756 H,DVB-S2
+Indiasign,G-Sat 30,3756 H,8PSK
+Indiasign,G-Sat 30,3776 H,DVB-S2
+Indiasign,G-Sat 30,3776 H,8PSK
+Indiasign,G-Sat 30,3838 H,DVB-S2
+Indiasign,G-Sat 30,3838 H,8PSK
+Indiasign,G-Sat 30,4133 H,DVB-S2
+Indiasign,G-Sat 30,4133 H,8PSK
+Indiasign,Intelsat 20,3893 V,DVB-S2
+Indiasign,Intelsat 20,3893 V,8PSK
+Indiasign,Intelsat 20,4013 H,DVB-S2
+Indiasign,Intelsat 20,4013 H,8PSK
+Indiasign,Intelsat 20,4116 V,DVB-S2
+Indiasign,Intelsat 20,4116 V,8PSK
+Indiasign,Intelsat 17,3876 H,DVB-S2
+Indiasign,Intelsat 17,3876 H,8PSK
+Indiasign,Intelsat 17,3894 H,DVB-S2
+Indiasign,Intelsat 17,3894 H,8PSK
+Sun TV Network,Intelsat 17,3885 V,DVB-S2
+Sun TV Network,Intelsat 17,3885 V,8PSK
+Sun TV Network,Intelsat 17,3925 V,DVB-S2
+Sun TV Network,Intelsat 17,3925 V,8PSK
+New Delhi TV,Intelsat 17,3914 H,DVB-S2
+New Delhi TV,Intelsat 17,3914 H,8PSK
+Indo Teleports,Intelsat 20,3828 V,DVB-S2
+Indo Teleports,Intelsat 20,3828 V,8PSK
+Indo Teleports,Intelsat 20,4090 H,DVB-S2
+Indo Teleports,Intelsat 20,4090 H,8PSK
+Indo Teleports,Intelsat 17,3932 H,DVB-S2
+Indo Teleports,Intelsat 17,3932 H,8PSK
+Encompass,Measat 3a,3760 H,DVB-S2
+Encompass,Measat 3a,3760 H,8PSK
+Encompass,Measat 3a,3960 H,DVB-S2
+Encompass,Measat 3a,3960 H,8PSK
+Encompass,Measat 3a,4000 H,DVB-S2
+Encompass,Measat 3a,4000 H,8PSK
+Encompass,Measat 3a,4040 H,DVB-S2
+Encompass,Measat 3a,4040 H,8PSK
+Encompass,Intelsat 17,3984 H,DVB-S2
+Encompass,Intelsat 17,3984 H,8PSK
+Encompass,Galaxy 37/Horizons 4,4160 V,DVB-S2
+Encompass,Galaxy 37/Horizons 4,4160 V,8PSK
+Planetcast,Measat 3a,4080 H,DVB-S2
+Planetcast,Measat 3a,4080 H,8PSK
+Planetcast,G-Sat 30,3805 H,DVB-S2
+Planetcast,G-Sat 30,3805 H,8PSK
+Planetcast,G-Sat 30,3898 H,DVB-S
+Planetcast,G-Sat 30,3925 H,DVB-S2
+Planetcast,G-Sat 30,3925 H,8PSK
+Planetcast,G-Sat 30,3958 H,DVB-S2
+Planetcast,G-Sat 30,3958 H,8PSK
+Planetcast,Intelsat 20,4184 V,DVB-S2
+Planetcast,Intelsat 20,4184 V,8PSK
+Planetcast,Intelsat 17,4006 H,DVB-S2
+Planetcast,Intelsat 17,4006 H,8PSK
+Planetcast,Intelsat 17,4024 H,DVB-S2
+Planetcast,Intelsat 17,4024 H,8PSK
+RMS Radio,Intelsat 39,3871 L,DVB-S
+ZNBC,Intelsat 33e,3771 R,DVB-S
+BFBS,ABS 2,12730 H,DVB-S2
+BFBS,ABS 2,12730 H,QPSK
+BFBS,NSS 12,3775 L,DVB-S2
+BFBS,NSS 12,3775 L,8PSK
+BFBS,NSS 12,3798 R,DVB-S2
+BFBS,NSS 12,3798 R,QPSK
+BFBS,Eutelsat 10B,11221 V,DVB-S2
+BFBS,Eutelsat 10B,11221 V,QPSK
+BFBS,SES 6,4133 R,DVB-S2
+BFBS,SES 6,4133 R,QPSK
+Alhurra TV,NSS 12,4060 L,DVB-S2
+Alhurra TV,NSS 12,4060 L,QPSK
+VoA,NSS 12,4069 L,DVB-S
+VoA,Hotbird 13G,12226 V,DVB-S
+RTRS 2,Express AMU7,3766 R,DVB-S2
+RTRS 2,Express AMU7,3766 R,8PSK
+RTRS 2,Express AMU3,3725 R,DVB-S2
+RTRS 2,Express AMU3,3725 R,8PSK
+RTRS 2,Yamal 401,3725 L,DVB-S2
+RTRS 2,Yamal 401,3725 L,8PSK
+RTRS 2,Yamal 401,3728 R,DVB-S2
+RTRS 2,Yamal 401,3728 R,8PSK
+RTRS 2,Express AM6,10747 H,DVB-S2
+RTRS 2,Express AM6,10747 H,QPSK
+RTRS 2,Express AM6,10875 V,DVB-S2
+RTRS 2,Express AM6,10875 V,8PSK
+RTRS 2,Yamal 601,3654 L,DVB-S2
+RTRS 2,Yamal 601,3654 L,QPSK
+RTRS 2,Yamal 601,3663 R,DVB-S2
+RTRS 2,Yamal 601,3663 R,8PSK
+RTRS 2,Cosmos 2520,3760 L,DVB-S2
+RTRS 2,Cosmos 2520,3760 L,QPSK
+RTRS 2,Express AM7,3685 L,DVB-S2
+RTRS 2,Express AM7,3685 L,8PSK
+RTRS Smolensk,Express AM6,10853 V,DVB-S2
+RTRS Smolensk,Express AM6,10853 V,8PSK
+RTRS Bryansk,Express AM6,10909 V,DVB-S2
+RTRS Bryansk,Express AM6,10909 V,8PSK
+RTRS Bryansk,Express AM7,3872 L,DVB-S2
+RTRS Bryansk,Express AM7,3872 L,8PSK
+RTRS Yaroslavl,Express AM6,10909 V,DVB-S2
+RTRS Yaroslavl,Express AM6,10909 V,8PSK
+RTRS Belgorod,Express AM6,10909 V,DVB-S2
+RTRS Belgorod,Express AM6,10909 V,8PSK
+RTRS Belgorod,Express AM7,3878 L,DVB-S2
+RTRS Belgorod,Express AM7,3878 L,8PSK
+RTRS Rostov,Express AM6,10909 V,DVB-S2
+RTRS Rostov,Express AM6,10909 V,8PSK
+RTRS Rostov,Express AM7,3978 L,DVB-S2
+RTRS Rostov,Express AM7,3978 L,8PSK
+RTRS Krasnodar,Express AM6,10909 V,DVB-S2
+RTRS Krasnodar,Express AM6,10909 V,8PSK
+RTRS Sochi,Express AM6,10909 V,DVB-S2
+RTRS Sochi,Express AM6,10909 V,8PSK
+Saudi Broadcasting Authority,Al Yah 1,11747 H,DVB-S2
+Saudi Broadcasting Authority,Al Yah 1,11747 H,8PSK
+Saudi Broadcasting Authority,Arabsat 5A,10924 H,DVB-S
+Saudi Broadcasting Authority,Arabsat 5A,12700 H,DVB-S
+Saudi Broadcasting Authority,Badr 7,11230 H,DVB-S
+Saudi Broadcasting Authority,Badr 8,12149 H,DVB-S2
+Saudi Broadcasting Authority,Badr 8,12149 H,8PSK
+Saudi Broadcasting Authority,Hotbird 13F,12558 V,DVB-S2
+Saudi Broadcasting Authority,Hotbird 13F,12558 V,8PSK
+Saudi Broadcasting Authority,Nilesat 201,12149 H,DVB-S
+Saudi Broadcasting Authority,Nilesat 201,12284 V,DVB-S2
+Saudi Broadcasting Authority,Nilesat 201,12284 V,8PSK
+North Telecom,Al Yah 1,11766 V,DVB-S
+North Telecom,Al Yah 1,11958 V,DVB-S
+North Telecom,Al Yah 1,12073 V,DVB-S
+North Telecom,Al Yah 1,12149 V,DVB-S2
+North Telecom,Al Yah 1,12149 V,8PSK
+Twofour54,Al Yah 1,11785 H,DVB-S2
+Twofour54,Al Yah 1,11785 H,8PSK
+Twofour54,Al Yah 1,11938 H,DVB-S2
+Twofour54,Al Yah 1,11938 H,8PSK
+Twofour54,Badr 8,11977 V,DVB-S2
+Twofour54,Badr 8,11977 V,8PSK
+GEM Group,Al Yah 1,11881 V,DVB-S
+GEM Group,Al Yah 1,12034 V,DVB-S2
+GEM Group,Al Yah 1,12034 V,8PSK
+Arqiva,Al Yah 1,11996 V,DVB-S
+Arqiva,Hotbird 13G,11137 H,DVB-S
+Arqiva,Eutelsat 9B,12092 H,DVB-S2
+Arqiva,Eutelsat 9B,12092 H,8PSK
+Du,Intelsat 20,4150 H,DVB-S2
+Du,Intelsat 20,4150 H,8PSK
+Du,Al Yah 1,12054 H,DVB-S2
+Du,Al Yah 1,12054 H,8PSK
+Du,Al Yah 1,12169 H,DVB-S2
+Du,Al Yah 1,12169 H,8PSK
+Du,TurkmenÄlem/MonacoSat,12437 H,DVB-S2
+Du,TurkmenÄlem/MonacoSat,12437 H,8PSK
+Du,TurkmenÄlem/MonacoSat,12476 H,DVB-S2
+Du,TurkmenÄlem/MonacoSat,12476 H,8PSK
+Du,Badr 8,12111 H,DVB-S
+Du,Hotbird 13G,11747 H,DVB-S2
+Du,Hotbird 13G,11747 H,8PSK
+Du,Eutelsat 7 West A,12322 V,DVB-S2
+Du,Eutelsat 7 West A,12322 V,8PSK
+Wide Network Solutions,Express AM6,12594 V,DVB-S
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10762 V,DVB-S
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10762 H,DVB-S2
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10762 H,QPSK
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10845 V,DVB-S
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10887 V,DVB-S
+Wide Network Solutions,TurkmenÄlem/MonacoSat,11221 V,DVB-S
+Persiana Media Group,TurkmenÄlem/MonacoSat,10804 H,DVB-S
+RTRS Yamal,Yamal 601,3594 R,DVB-S2
+RTRS Yamal,Yamal 601,3594 R,8PSK
+RTRS Saratov,Yamal 601,3595 L,DVB-S2
+RTRS Saratov,Yamal 601,3595 L,8PSK
+RTRS Saratov,Yamal 601,3822 L,DVB-S2
+RTRS Saratov,Yamal 601,3822 L,8PSK
+RTRS Yugoria,Yamal 601,3621 R,DVB-S2
+RTRS Yugoria,Yamal 601,3621 R,8PSK
+RTRS Yugoria,Yamal 601,3921 R,DVB-S2
+RTRS Yugoria,Yamal 601,3921 R,8PSK
+RTRS Tyumen,Yamal 601,3628 R,DVB-S2
+RTRS Tyumen,Yamal 601,3628 R,8PSK
+RTRS Chelyabinsk,Yamal 601,3695 R,DVB-S2
+RTRS Chelyabinsk,Yamal 601,3695 R,8PSK
+Silverbird TV,Azerspace 1,4140 V,DVB-S2
+Silverbird TV,Azerspace 1,4140 V,8PSK
+RTRS Stavropol,Express AM7,3608 L,DVB-S2
+RTRS Stavropol,Express AM7,3608 L,8PSK
+RTRS Tula,Express AM7,3615 L,DVB-S2
+RTRS Tula,Express AM7,3615 L,8PSK
+RTRS Kaluga,Express AM7,3622 L,DVB-S2
+RTRS Kaluga,Express AM7,3622 L,8PSK
+RTRS Karelija,Express AM7,3628 L,DVB-S2
+RTRS Karelija,Express AM7,3628 L,8PSK
+RTRS Murmansk,Express AM7,3635 L,DVB-S2
+RTRS Murmansk,Express AM7,3635 L,8PSK
+RTRS Voronezh,Express AM7,3643 L,DVB-S2
+RTRS Voronezh,Express AM7,3643 L,8PSK
+Dunya Media Group,Paksat 1R,3718 V,DVB-S2
+Dunya Media Group,Paksat 1R,3718 V,8PSK
+VU TV Network,Paksat 1R,3754 V,DVB-S2
+VU TV Network,Paksat 1R,3754 V,8PSK
+Suno FM,Paksat 1R,3760 H,DVB-S
+TeleNest,Apstar 7,3745 V,DVB-S2
+TeleNest,Apstar 7,3745 V,8PSK
+TeleNest,Apstar 7,3753 V,DVB-S2
+TeleNest,Apstar 7,3753 V,8PSK
+TeleNest,Paksat 1R,3799 V,DVB-S2
+TeleNest,Paksat 1R,3799 V,8PSK
+TeleNest,Paksat 1R,3969 V,DVB-S2
+TeleNest,Paksat 1R,3969 V,8PSK
+Geo TV Network,Paksat 1R,3813 V,DVB-S2
+Geo TV Network,Paksat 1R,3813 V,8PSK
+Express,Paksat 1R,3838 V,DVB-S2
+Express,Paksat 1R,3838 V,8PSK
+SS Creative Solutions,AsiaSat 7,3880 H,DVB-S2
+SS Creative Solutions,AsiaSat 7,3880 H,8PSK
+SS Creative Solutions,Paksat 1R,3846 V,DVB-S2
+SS Creative Solutions,Paksat 1R,3846 V,8PSK
+SS Creative Solutions,Paksat 1R,4023 V,DVB-S2
+SS Creative Solutions,Paksat 1R,4023 V,8PSK
+SS Creative Solutions,Paksat 1R,4037 V,DVB-S2
+SS Creative Solutions,Paksat 1R,4037 V,8PSK
+SS Creative Solutions,Paksat 1R,4060 V,DVB-S2
+SS Creative Solutions,Paksat 1R,4060 V,8PSK
+Radio Pakistan,Paksat 1R,3847 H,DVB-S
+PTV Network,Paksat 1R,4001 V,DVB-S2
+PTV Network,Paksat 1R,4001 V,8PSK
+PTV Network,Paksat 1R,4052 V,DVB-S2
+PTV Network,Paksat 1R,4052 V,8PSK
+AVT Channels,Paksat 1R,4125 V,DVB-S2
+AVT Channels,Paksat 1R,4125 V,8PSK
+KTN Network,Paksat 1R,4135 V,DVB-S2
+KTN Network,Paksat 1R,4135 V,8PSK
+Hum Network,Paksat 1R,4160 V,DVB-S2
+Hum Network,Paksat 1R,4160 V,8PSK
+DalSat Global,Arabsat 5C,3857 L,DVB-S
+Hit Radio,Arabsat 5C,3866 L,DVB-S2
+Hit Radio,Arabsat 5C,3866 L,QPSK
+Arabsat,Badr 8,11747 V,DVB-S
+Arabsat,Badr 8,11785 V,DVB-S
+Arabsat,Badr 8,11996 H,DVB-S
+Arabsat,Badr 8,12073 H,DVB-S2
+Arabsat,Badr 8,12073 H,8PSK
+Arabsat,Arabsat 5C,3884 R,DVB-S
+ASBU Bouquet,Arabsat 5C,3934 L,DVB-S
+ASBU Bouquet,Hispasat 30W-6,12132 H,DVB-S
+Signet,Amos 17,3846 R,DVB-S2
+Signet,Amos 17,3846 R,8PSK
+EClutch,Eutelsat 16A,10721 H,DVB-S2
+EClutch,Eutelsat 16A,10721 H,8PSK
+Rwanda TV,Eutelsat 10B,3869 R,DVB-S2
+Rwanda TV,Eutelsat 10B,3869 R,8PSK
+StarTimes TV Kenya,Eutelsat 10B,3898 R,DVB-S2
+StarTimes TV Kenya,Eutelsat 10B,3898 R,8PSK
+New World TV,Eutelsat 10B,3918 R,DVB-S2
+New World TV,Eutelsat 10B,3918 R,8PSK
+TVT,Eutelsat 10B,4039 R,DVB-S2
+TVT,Eutelsat 10B,4039 R,8PSK
+IMPD TV,ABS 3A,3962 H,DVB-S2
+IMPD TV,ABS 3A,3962 H,8PSK
+IMPD TV Worldwide,ABS 3A,3982 H,DVB-S2
+IMPD TV Worldwide,ABS 3A,3982 H,8PSK
+IMPD TV Rondônia,ABS 3A,3987 H,DVB-S2
+IMPD TV Rondônia,ABS 3A,3987 H,8PSK
+CruiseSat,ABS 3A,4130 V,DVB-S2
+CruiseSat,ABS 3A,4130 V,QPSK
+CruiseSat,Amazonas 3,4040 V,DVB-S2
+CruiseSat,Amazonas 3,4040 V,QPSK
+CruiseSat,Anik F1R,4120 H,DVB-S2
+CruiseSat,Anik F1R,4120 H,8PSK
+Rai Way Sicilia 1,Eutelsat 5 West B,11016 H,DVB-S2
+Rai Way Sicilia 1,Eutelsat 5 West B,11016 H,8PSK
+CRTV,Eutelsat 8 West B,3832 L,DVB-S2
+CRTV,Eutelsat 8 West B,3832 L,8PSK
+TopStar,Eutelsat 8 West B,3850 R,DVB-S2
+TopStar,Eutelsat 8 West B,3850 R,8PSK
+Vivacom MCPC,Eutelsat 36B,11345 H,DVB-S2
+Vivacom MCPC,Eutelsat 36B,11345 H,8PSK
+Vivacom MCPC,Eutelsat 8 West B,3925 R,DVB-S2
+Vivacom MCPC,Eutelsat 8 West B,3925 R,QPSK
+RFI,Eutelsat 8 West B,3964 R,DVB-S2
+RFI,Eutelsat 8 West B,3964 R,QPSK
+Freeview,Telstar 12 Vantage,11043 V,DVB-S2
+Freeview,Telstar 12 Vantage,11043 V,QPSK
+Freeview,Intelsat 901,11495 V,DVB-S2
+Freeview,Intelsat 901,11495 V,QPSK
+TV Sul Bahia,Intelsat 37e,3773 R,DVB-S2
+TV Sul Bahia,Intelsat 37e,3773 R,8PSK
+TV Barriga Verde,Intelsat 37e,3778 L,DVB-S2
+TV Barriga Verde,Intelsat 37e,3778 L,8PSK
+Rede Centro Oeste,Intelsat 37e,3778 R,DVB-S2
+Rede Centro Oeste,Intelsat 37e,3778 R,8PSK
+TPA,Yamal 402,10962 V,DVB-S2
+TPA,Intelsat 37e,4008 R,DVB-S2
+TPA,Intelsat 37e,4008 R,QPSK
+ORTM,Intelsat 37e,4095 L,DVB-S2
+ORTM,Intelsat 37e,4095 L,8PSK
+ORTM,Intelsat 37e,4129 L,DVB-S2
+ORTM,Intelsat 37e,4129 L,8PSK
+TV Cidade Fortaleza,SES 4,4015 L,DVB-S2
+TV Cidade Fortaleza,SES 4,4015 L,8PSK
+Rede Pampa de Rádios,SES 4,4045 R,DVB-S2
+Rede Pampa de Rádios,SES 4,4045 R,QPSK
+TV Cidade Verde Piauí,SES 4,4058 L,DVB-S2
+TV Cidade Verde Piauí,SES 4,4058 L,QPSK
+TV Pampa,SES 4,4062 R,DVB-S2
+TV Pampa,SES 4,4062 R,QPSK
+TV Antena 10,SES 4,4063 L,DVB-S2
+TV Antena 10,SES 4,4063 L,8PSK
+TV Tropical,SES 4,4068 L,DVB-S2
+TV Tropical,SES 4,4068 L,8PSK
+TV Correio,SES 4,4075 L,DVB-S2
+TV Correio,SES 4,4075 L,8PSK
+TDA,Eutelsat 7 West A,10922 V,DVB-S
+TDA,Eutelsat 7 West A,11680 H,DVB-S2
+TDA,Eutelsat 7 West A,11680 H,8PSK
+TDA,SES 4,12674 H,DVB-S
+TDA,Alcomsat 1,12160 H,DVB-S2
+TDA,Alcomsat 1,12160 H,8PSK
+TDA,Alcomsat 1,12232 H,DVB-S
+TDA,Alcomsat 1,12250 H,DVB-S
+RTP,Intelsat 901,3830 R,DVB-S2
+RTP,Intelsat 901,3830 R,QPSK
+TV Tarobá Cascavel,Intelsat 14,3733 V,DVB-S2
+TV Tarobá Cascavel,Intelsat 14,3733 V,8PSK
+TV Guararapes,Intelsat 14,3750 V,DVB-S2
+TV Guararapes,Intelsat 14,3750 V,8PSK
+TV Guararapes,Star One C2,4110 H,DVB-S2
+TV Guararapes,Star One C2,4110 H,8PSK
+Sertel,Intelsat 14,3761 V,DVB-S2
+Sertel,Intelsat 14,3761 V,8PSK
+Box Brazil,Intelsat 14,3782 H,DVB-S2
+Box Brazil,Intelsat 14,3782 H,8PSK
+Suyapa TV,Intelsat 14,3784 V,DVB-S2
+Suyapa TV,Intelsat 14,3784 V,8PSK
+Rede Amazônica,Intelsat 14,3804 H,DVB-S2
+Rede Amazônica,Intelsat 14,3804 H,8PSK
+Rede Amazônica,Intelsat 14,3806 V,DVB-S2
+Rede Amazônica,Intelsat 14,3806 V,8PSK
+Rede Amazônica,Intelsat 14,3815 H,DVB-S2
+Rede Amazônica,Intelsat 14,3815 H,8PSK
+Rede Amazônica,Intelsat 14,3825 V,DVB-S2
+Rede Amazônica,Intelsat 14,3825 V,8PSK
+TV Pai Eterno,Intelsat 14,3852 V,DVB-S2
+TV Pai Eterno,Intelsat 14,3852 V,8PSK
+Rede Mais,Intelsat 14,3865 H,DVB-S2
+Rede Mais,Intelsat 14,3865 H,8PSK
+Grupo ATV,Intelsat 14,3945 V,DVB-S2
+Grupo ATV,Intelsat 14,3945 V,8PSK
+Antena 7,Intelsat 14,3971 V,DVB-S2
+Antena 7,Intelsat 14,3971 V,8PSK
+SiBCI,Intelsat 35e,11100 V,DVB-S2
+SiBCI,Intelsat 35e,11100 V,8PSK
+SiBCI,Intelsat 35e,11646 V,DVB-S2
+SiBCI,Intelsat 35e,11646 V,8PSK
+SiBCI,Intelsat 14,4059 H,DVB-S
+CRP Radios,Intelsat 14,4080 H,DVB-S2
+Latina,Intelsat 14,4088 H,DVB-S2
+Latina,Intelsat 14,4088 H,8PSK
+IRTP,Intelsat 14,4102 H,DVB-S2
+IRTP,Intelsat 14,4102 H,8PSK
+Televicentro,Intelsat 14,4148 V,DVB-S2
+Televicentro,Intelsat 14,4148 V,8PSK
+Grupo RPP,Intelsat 14,4178 H,DVB-S2
+Grupo RPP,Intelsat 14,4178 H,8PSK
+Televisa Networks,Eutelsat 9B,11759 V,DVB-S
+Televisa Networks,Intelsat 34,3805 V,DVB-S2
+Televisa Networks,Intelsat 34,3805 V,8PSK
+Televisa Networks,Intelsat 34,4180 V,DVB-S2
+Televisa Networks,Intelsat 34,4180 V,8PSK
+Televisa Networks,Eutelsat 117 West A,4060 H,DVB-S2
+Televisa Networks,Eutelsat 117 West A,4060 H,8PSK
+Televisa Networks,Eutelsat 117 West A,4100 H,DVB-S2
+Televisa Networks,Eutelsat 117 West A,4100 H,8PSK
+Televisa Networks,Eutelsat 117 West A,4140 H,DVB-S2
+Televisa Networks,Eutelsat 117 West A,4140 H,8PSK
+HBO Network Latinoamérica,Intelsat 34,3885 V,DVB-S2
+HBO Network Latinoamérica,Intelsat 34,3885 V,8PSK
+HBO Network Latinoamérica,Intelsat 21,4040 V,DVB-S2
+HBO Network Latinoamérica,Intelsat 21,4040 V,8PSK
+HBO Network Latinoamérica,Intelsat 21,4080 H,DVB-S2
+HBO Network Latinoamérica,Intelsat 21,4080 H,16APSK
+Artear,Intelsat 34,3885 H,DVB-S2
+Artear,Intelsat 34,3885 H,8PSK
+Artear,Intelsat 34,4086 H,DVB-S2
+Artear,Intelsat 34,4086 H,8PSK
+Albavisión,Intelsat 34,3918 H,DVB-S2
+Albavisión,Intelsat 34,3918 H,8PSK
+Walt Disney TV,Intelsat 34,3925 V,DVB-S2
+Walt Disney TV,Intelsat 34,3925 V,8PSK
+Walt Disney TV,Intelsat 34,4086 V,DVB-S2
+Walt Disney TV,Intelsat 34,4086 V,8PSK
+Walt Disney TV,Galaxy 18,4140 H,DVB-S2X
+Walt Disney TV,Galaxy 18,4140 H,16APSK
+Repretel,Intelsat 34,3930 H,DVB-S2
+Repretel,Intelsat 34,3930 H,8PSK
+Turner,Intelsat 34,3966 V,DVB-S2
+Turner,Intelsat 34,3966 V,8PSK
+Turner,Intelsat 34,4015 V,DVB-S2
+Turner,Intelsat 34,4015 V,8PSK
+Turner,Intelsat 21,3760 V,DVB-S
+Turner,Intelsat 21,3920 H,DVB-S2
+Turner,Intelsat 21,3920 H,8PSK
+Turner,Galaxy 30,4100 V,DVB-S2
+Turner,Galaxy 30,4100 V,16APSK
+Turner,Galaxy 30,4120 H,DVB-S2
+Turner,Galaxy 30,4120 H,16APSK
+ESPN,Telstar 12 Vantage,12609 H,DVB-S
+ESPN,Intelsat 34,4015 H,DVB-S2
+ESPN,Intelsat 34,4015 H,8PSK
+ESPN,Intelsat 21,3790 V,DVB-S2
+ESPN,Intelsat 21,3790 V,8PSK
+ESPN,Intelsat 21,3809 V,DVB-S2
+ESPN,Intelsat 21,3809 V,8PSK
+ESPN,Intelsat 21,3910 V,DVB-S2
+ESPN,Intelsat 21,3910 V,8PSK
+ESPN,Galaxy 18,4160 V,DVB-S2X
+ESPN,Galaxy 18,4160 V,16APSK
+ESPN,Galaxy 18,4180 H,DVB-S2X
+ESPN,Galaxy 18,4180 H,16APSK
+CNN,Intelsat 34,4055 H,DVB-S2
+CNN,Intelsat 34,4055 H,16APSK
+Bloomberg TV,Intelsat 34,4099 H,DVB-S2
+Bloomberg TV,Intelsat 34,4099 H,8PSK
+Igreja Cristã Maranata,Intelsat 34,4105 V,DVB-S2
+Igreja Cristã Maranata,Intelsat 34,4105 V,8PSK
+SportsMax,Intelsat 34,4139 V,DVB-S2
+SportsMax,Intelsat 34,4139 V,8PSK
+Caracol TV,Intelsat 21,3789 H,DVB-S2
+Caracol TV,Intelsat 21,3789 H,8PSK
+TV Nacional de Chile,Intelsat 21,3975 H,DVB-S2
+TV Nacional de Chile,Intelsat 21,3975 H,8PSK
+Paramount Networks Americas,SES 14,4055 R,DVB-S2
+Paramount Networks Americas,SES 14,4055 R,8PSK
+Paramount Networks Americas,Intelsat 21,4120 V,DVB-S2
+Paramount Networks Americas,Intelsat 21,4120 V,8PSK
+Enlace,Intelsat 21,4144 H,DVB-S2
+Enlace,Intelsat 21,4144 H,8PSK
+CTN,Intelsat 21,4159 V,DVB-S2
+CTN,Intelsat 21,4159 V,8PSK
+María+Visión,Intelsat 21,4174 V,DVB-S2
+María+Visión,Intelsat 21,4174 V,8PSK
+Teletrak,Telstar 14R,11592 V,DVB-S2
+Teletrak,Telstar 14R,11592 V,8PSK
+TV A Crítica,Star One C3,3723 H,DVB-S2
+TV A Crítica,Star One C3,3723 H,8PSK
+Rede Bahia,Star One C3,3747 H,DVB-S2
+Rede Bahia,Star One C3,3747 H,8PSK
+Rede Bahia,Star One C3,3758 H,DVB-S2
+Rede Bahia,Star One C3,3758 H,8PSK
+TV Jangadeiro,Star One C3,3764 V,DVB-S2
+TV Jangadeiro,Star One C3,3764 V,8PSK
+TV Mais Família,Star One C3,3775 H,DVB-S2
+TV Mais Família,Star One C3,3775 H,8PSK
+TV Alterosa,Star One C3,3787 V,DVB-S2
+TV Alterosa,Star One C3,3787 V,8PSK
+TV Serra Dourada,Star One C3,3815 H,DVB-S2
+RBI TV,Star One C3,3846 V,DVB-S2
+RBI TV,Star One C3,3846 V,8PSK
+Rede 21,Star One C3,3854 H,DVB-S2
+Rede 21,Star One C3,3854 H,8PSK
+TV Gazeta Alagoas,Star One C3,3854 V,DVB-S2
+TV Thathi Vale,Star One C3,3858 V,DVB-S2
+Boa Vontade TV,Star One C3,3868 V,DVB-S2
+Boa Vontade TV,Star One C3,3868 V,8PSK
+Rede CNT Rio de Janeiro,Star One C3,3871 H,DVB-S2
+Rede CNT Rio de Janeiro,Star One C3,3871 H,8PSK
+SIC TV,Star One C3,3876 V,DVB-S2
+SIC TV,Star One C3,3876 V,8PSK
+TV Gazeta São Paulo,Star One C3,3883 H,DVB-S2
+Fundação Cultural Riograndense,Star One C3,3887 H,DVB-S
+SBT Rio,Star One C3,3894 H,DVB-S2
+TV Thathi Campinas,Star One C3,3910 V,DVB-S2
+TV Thathi Campinas,Star One C3,3910 V,8PSK
+Band Vale,Star One C3,3949 V,DVB-S2
+TV Aparecida,Star One D2,3982 V,DVB-S2
+TV Aparecida,Star One D2,3982 V,8PSK
+TV Aparecida,Star One C3,3954 V,DVB-S2
+Band Amazonas,Star One C3,3984 V,DVB-S2
+Band Amazonas,Star One C3,3984 V,8PSK
+Band Bahia,Star One C3,3988 V,DVB-S2
+Band Bahia,Star One C3,3988 V,8PSK
+Canais Globo,Star One C3,4012 V,DVB-S2
+Canais Globo,Star One C3,4012 V,16APSK
+Canais Globo,Star One D1,4020 V,DVB-S2
+Canais Globo,Star One D1,4020 V,16APSK
+Canais Globo,Star One D1,4100 V,DVB-S2
+Canais Globo,Star One D1,4100 V,16APSK
+TV Canção Nova,Star One C3,4062 V,DVB-S2
+TV Canção Nova,Star One C3,4062 V,8PSK
+Band SP Interior,Star One C3,4065 H,DVB-S2
+Band SP Interior,Star One C3,4065 H,8PSK
+Band Minas,Star One C3,4069 H,DVB-S2
+Band Rio Interior,Star One C3,4073 H,DVB-S2
+Band Rio Interior,Star One C3,4073 H,8PSK
+Band Paraná,Star One C3,4078 H,DVB-S2
+Band Paraná,Star One C3,4078 H,8PSK
+Band Campinas,Star One C3,4083 H,DVB-S2
+Big Brother Brasil,Star One C3,4091 V,DVB-S2
+Big Brother Brasil,Star One C3,4091 V,8PSK
+Grupo Bandeirantes,Star One D2,3990 V,DVB-S2
+Grupo Bandeirantes,Star One D2,3990 V,8PSK
+Grupo Bandeirantes,Star One C3,4120 H,DVB-S2
+Band RS,Star One C3,4125 V,DVB-S2
+Band RS,Star One C3,4125 V,8PSK
+Inter TV,Star One C3,4134 V,DVB-S2
+Inter TV,Star One C3,4134 V,8PSK
+Fish TV,Star One C3,4158 H,DVB-S2
+Fish TV,Star One C3,4158 H,8PSK
+TV Méxiquense,QuetzSat 1,12276 R,DVB-S2
+TV Méxiquense,QuetzSat 1,12276 R,8PSK
+TV Mirante,Star One D1,3908 H,DVB-S2
+TV Mirante,Star One D1,3908 H,8PSK
+TV Encontro das Águas,Star One D1,3925 H,DVB-S2
+TV Encontro das Águas,Star One D1,3925 H,8PSK
+Rede Massa,Star One D1,3966 H,DVB-S2
+Rede Massa,Star One D1,3966 H,8PSK
+TV Cultura do Pará,Star One D1,3984 H,DVB-S2
+TV Cultura do Pará,Star One D1,3984 H,8PSK
+TV Assembléia Piauí,Star One D1,4045 V,DVB-S2
+TV Assembléia Piauí,Star One D1,4045 V,8PSK
+NET,Star One D1,4140 V,DVB-S2
+NET,Star One D1,4140 V,8PSK
+TV PE,Star One D1,4170 V,DVB-S2
+TV PE,Star One D1,4170 V,8PSK
+Televisa,Galaxy 19,4140 H,DVB-S2
+Televisa,Galaxy 19,4140 H,16APSK
+Televisa,Eutelsat 117 West A,3985 V,DVB-S2
+Televisa,Eutelsat 117 West A,3985 V,8PSK
+Grupo Radio Centro,Eutelsat 115 West B,4118 H,DVB-S
+Canal 10 Chiapas,Eutelsat 115 West B,4124 H,DVB-S2
+Canal 10 Chiapas,Eutelsat 115 West B,4124 H,8PSK
+Canal del Congreso 45.1,Eutelsat 115 West B,4141 V,DVB-S2
+Canal del Congreso 45.1,Eutelsat 115 West B,4141 V,QPSK
+IKO MG,Measat 3a,4120 H,DVB-S2
+IKO MG,Measat 3a,4120 H,8PSK
+IKO MG,Galaxy 18,4009 V,DVB-S2
+IKO MG,Galaxy 18,4009 V,8PSK
+Trinity Broadcasting,Apstar 7,3844 V,DVB-S2
+Trinity Broadcasting,Apstar 7,3844 V,QPSK
+Trinity Broadcasting,Galaxy 18,4040 V,DVB-S2
+Trinity Broadcasting,Galaxy 18,4040 V,8PSK
+Univisión,SES 18,4100 V,DVB-S2
+Univisión,SES 18,4100 V,8PSK
+Univisión,Galaxy 18,4100 H,DVB-S2
+Univisión,Galaxy 18,4100 H,8PSK
+MLB Network,Galaxy 18,4120 V,DVB-S2
+MLB Network,Galaxy 18,4120 V,8PSK
+GCI,Galaxy 30,3860 V,DVB-S2
+GCI,Galaxy 30,3860 V,8PSK
+GCI,Galaxy 30,3900 V,DVB-S2
+GCI,Galaxy 30,3900 V,8PSK
+GCI,Galaxy 37/Horizons 4,3940 H,DVB-S2
+GCI,Galaxy 37/Horizons 4,3940 H,8PSK
+GCI,Galaxy 37/Horizons 4,3980 H,DVB-S2
+GCI,Galaxy 37/Horizons 4,3980 H,8PSK
+ShopHQ,Galaxy 30,4011 V,DVB-S
+C-SPAN,Galaxy 30,4029 V,DVB-S2
+C-SPAN,Galaxy 30,4029 V,8PSK
+AMC Networks,Galaxy 30,4060 V,DVB-S2
+AMC Networks,Galaxy 30,4060 V,8PSK
+NBC Universal,SES 1,4160 V,DVB-S2
+NBC Universal,SES 1,4160 V,8PSK
+NBC Universal,Galaxy 30,4080 H,DVB-S2
+NBC Universal,Galaxy 30,4080 H,8PSK
+A+E Networks,Galaxy 30,4160 H,DVB-S2
+A+E Networks,Galaxy 30,4160 H,8PSK
+Showtime HD East Plex 2,Galaxy 30,4180 V,DVB-S2
+Showtime HD East Plex 2,Galaxy 30,4180 V,8PSK
+NASA TV,Galaxy 37/Horizons 4,4009 V,DVB-S2
+NASA TV,Galaxy 37/Horizons 4,4009 V,8PSK
+Starz,Galaxy 37/Horizons 4,4040 V,DVB-S2
+Starz,Galaxy 37/Horizons 4,4040 V,16APSK
+Starz,Galaxy 33,4100 V,DVB-S2
+Starz,Galaxy 33,4100 V,16APSK
+Herring Networks,Galaxy 37/Horizons 4,4052 H,DVB-S2
+Herring Networks,Galaxy 37/Horizons 4,4052 H,8PSK
+MBC America,Galaxy 37/Horizons 4,4070 H,DVB-S2
+MBC America,Galaxy 37/Horizons 4,4070 H,8PSK
+SES,Apstar 7,3788 H,DVB-S
+SES,Astra 2G,11095 V,DVB-S2
+SES,Astra 2G,11095 V,QPSK
+SES,Astra 2F,11635 V,DVB-S2
+SES,Astra 2F,11635 V,QPSK
+SES,Astra 2F,11675 H,DVB-S2
+SES,Astra 2F,11675 H,QPSK
+SES,Astra 2F,12605 V,DVB-S2
+SES,Astra 2F,12605 V,QPSK
+SES,Astra 3C,12032 H,DVB-S2
+SES,Astra 3C,12032 H,QPSK
+SES,Astra 3C,12168 V,DVB-S
+SES,Astra 1KR,10773 H,DVB-S2
+SES,Astra 1KR,10773 H,8PSK
+SES,Astra 1KR,10803 H,DVB-S2
+SES,Astra 1KR,10803 H,8PSK
+SES,Astra 1KR,10921 H,DVB-S
+SES,Astra 1L,10994 H,DVB-S2
+SES,Astra 1L,10994 H,8PSK
+SES,Astra 1L,11112 H,DVB-S2
+SES,Astra 1L,11112 H,8PSK
+SES,Astra 1KR,11229 V,DVB-S2
+SES,Astra 1KR,11229 V,8PSK
+SES,Astra 1L,11288 V,DVB-S2
+SES,Astra 1L,11288 V,8PSK
+SES,Astra 1KR,11421 H,DVB-S
+SES,Astra 1L,11553 H,DVB-S2
+SES,Astra 1L,11553 H,8PSK
+SES,Astra 1M,11739 V,DVB-S
+SES,Astra 1M,11778 V,DVB-S2
+SES,Astra 1M,11778 V,QPSK
+SES,Astra 1N,12148 H,DVB-S
+SES,Astra 1L,12226 H,DVB-S
+SES,Astra 1M,12344 H,DVB-S2
+SES,Astra 1M,12344 H,8PSK
+SES,Astra 1M,12460 H,DVB-S
+SES,Astra 1M,12480 V,DVB-S
+SES,Astra 1N,12552 V,DVB-S
+SES,Astra 1L,12574 H,DVB-S2
+SES,Astra 1L,12574 H,8PSK
+SES,Astra 1N,12604 H,DVB-S
+SES,SES 5,11919 H,DVB-S
+SES,SES 5,12034 H,DVB-S
+SES,SES 5,12054 V,DVB-S2
+SES,SES 5,12054 V,8PSK
+SES,Astra 4A,12380 H,DVB-S
+SES,Thor 6,12092 H,DVB-S
+SES,Hispasat 30W-5,12052 H,DVB-S2
+SES,Hispasat 30W-5,12052 H,8PSK
+SES,Telstar 11N,11482 H,DVB-S
+SES,SES 14,4095 L,DVB-S2
+SES,SES 14,4095 L,8PSK
+SES,Galaxy 19,11842 H,DVB-S
+SES,SES 21,4180 H,DVB-S2
+SES,SES 21,4180 H,8PSK
+Media-Comm,Galaxy 33,4014 H,DVB-S2
+Media-Comm,Galaxy 33,4014 H,8PSK
+HBO The Works,Galaxy 33,4060 V,DVB-S2
+HBO The Works,Galaxy 33,4060 V,16APSK
+HBO The Works,Galaxy 33,4080 H,DVB-S2
+HBO The Works,Galaxy 33,4080 H,16APSK
+Bally Sports,Galaxy 33,4120 H,DVB-S2
+Bally Sports,Galaxy 33,4120 H,8PSK
+Bally Sports,Galaxy 33,4140 V,DVB-S2
+Bally Sports,Galaxy 33,4140 V,8PSK
+EWTN,Galaxy 33,4150 H,DVB-S
+EWTN,Galaxy 33,4168 H,DVB-S2
+EWTN,Galaxy 33,4168 H,8PSK
+Big Ten Network,Galaxy 33,4180 V,DVB-S2
+Big Ten Network,Galaxy 33,4180 V,8PSK
+In Demand,SES 22,4030 V,DVB-S2
+In Demand,SES 22,4030 V,8PSK
+ION Media Networks,SES 18,4040 H,DVB-S2
+ION Media Networks,SES 18,4040 H,8PSK
+ION Media Networks,SES 22,4180 H,DVB-S2
+ION Media Networks,SES 22,4180 H,8PSK

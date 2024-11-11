@@ -1,0 +1,641 @@
+NetName,SatName,Frequency,Beam,SR,FEC,EIRP
+American Forces Network,NSS 9,4055 L,Global,11000,1/2,34-35
+American Forces Network,Intelsat 18,3753 R,North hemi,30000,2/3,null
+American Forces Network,Koreasat 5A,12470 V,NE Asia,30000,2/3,0
+American Forces Network,Koreasat 5A,12590 V,NE Asia,30000,2/3,0
+American Forces Network,NSS 12,4095 L,Global,11000,1/2,34-36
+American Forces Network,Eutelsat 9B,11804 V,Wide,27500,2/3,44-45
+American Forces Network,Intelsat 35e,4126 L,Global,11000,1/2,null
+Anuvu,Intelsat 18,4095 R,Global,30000,3/4,null
+Anuvu,NSS 12,4095 R,Global,30000,3/4,34-36
+Anuvu,Astra 4A,12226 H,Europe BSS,31420,4/5,0-47
+Anuvu,Intelsat 35e,4132 R,Global,30000,3/4,null
+Anuvu,Telstar 14R,11564 H,North Atlantic Ocean Region,3320,1/2,null
+Walesi,Eutelsat 172B,3947 H,C,15000,3/5,0
+MySat,Horizons 3e,11003 H,null,28800,2/3,null
+MySat,AsiaSat 9,12415 V,Australasia,40000,7/8,0
+Warner Bros. Discovery,Intelsat 19,3840 V,West hemi,30000,3/4,0
+Warner Bros. Discovery,Intelsat 19,3980 H,West hemi,30000,3/4,0
+Warner Bros. Discovery,Intelsat 19,4040 V,West hemi,30000,3/4,0
+Warner Bros. Discovery,Intelsat 19,4080 V,West hemi,30000,3/4,0
+Warner Bros. Discovery,Intelsat 20,3739 H,Landmass,30000,3/4,37.1-39.1
+Warner Bros. Discovery,Eutelsat 21B,10723 V,Wide,32115,1/2,47
+Warner Bros. Discovery,Hotbird 13F,11258 H,Wide,27500,3/4,44-46
+Warner Bros. Discovery,Hotbird 13F,11334 H,Wide,27500,3/4,44-46
+Warner Bros. Discovery,Hotbird 13F,11393 V,Wide,27500,3/4,44-46
+Warner Bros. Discovery,Hotbird 13F,11508 V,Wide,27500,3/4,44-46
+Warner Bros. Discovery,Eutelsat 9B,11881 V,Wide,30000,3/4,44-45
+Warner Bros. Discovery,Eutelsat 9B,11919 V,Wide,30000,3/4,44-45
+Warner Bros. Discovery,Intelsat 21,3840 V,West hemi,30000,8/9,0
+Warner Bros. Discovery,Intelsat 21,3880 V,West hemi,30000,8/9,0
+Warner Bros. Discovery,Intelsat 21,3960 V,West hemi,30000,8/9,0
+Warner Bros. Discovery,Intelsat 21,4120 H,West hemi,30000,8/9,0
+Warner Bros. Discovery,SES 1,4020 H,North America C,30000,5/6,0
+Warner Bros. Discovery,Galaxy 37/Horizons 4,4180 H,North America C,30000,3/4,0
+Paramount International Networks,Intelsat 19,3930 H,West hemi,15000,3/4,0
+Paramount International Networks,Astra 1M,11973 V,Europe Wide,27500,3/4,47-49
+Paramount International Networks,Thor 6,12226 V,K2,27500,5/6,0
+China Radio International,Intelsat 19,3956 V,West hemi,3555,3/4,0
+China Radio International,Intelsat 20,4083 V,Landmass,3550,3/4,37.1-39.1
+China Radio International,Intelsat 14,11605 H,US & Europe & Africa,990,2/3,49.5-51.5
+Intelsat,Intelsat 19,4060 H,West hemi,30000,3/4,0
+Intelsat,Intelsat 20,4064 H,Landmass,19850,7/8,37.1-39.1
+Intelsat,Intelsat 20,12522 H,Europe & Africa,30000,3/4,44.8-45.8
+Intelsat,Intelsat 21,3840 H,West hemi,27690,7/8,0
+Intelsat,Galaxy 19,12184 H,Ku,22500,2/3,0
+NHK World Network,Intelsat 19,4146 H,West hemi,19910,1/2,0
+NHK World Network,Intelsat 20,4128 H,Landmass,14890,2/3,37.1-39.1
+NHK World Network,Intelsat 21,4166 H,West hemi,19910,1/2,0
+Pasifika TV,Intelsat 19,4146 V,West hemi,8400,3/5,0
+BBC World Service,Intelsat 19,4161 V,West hemi,3448,3/5,0
+BBC World Service,AsiaSat 5,4132 H,C,10587,2/3,38-40
+BBC World Service,SES 5,4000 R,Hemi,18200,1/2,39
+BBC World Service,SES 5,4087 L,Global,1000,5/6,null
+BBC World Service,Intelsat 34,4131 H,Americas & Europe,5422,2/3,0
+ABS-CBN,Intelsat 19,4180 H,West hemi,30000,2/3,0
+ABC Sydney,Optus D2,12443 V,NANZ,1644,3/4,null
+ABC Melbourne,Optus D2,12445 V,NANZ,835,3/4,null
+Freeview,Optus D2,12456 H,NZB,22500,3/4,null
+Freeview,Optus D2,12483 H,NZB,22500,3/4,null
+ABC NSW,Optus D2,12470 H,NB,47300,4/5,null
+ABC NSW,Optus D2,12658 H,NB,47300,4/5,null
+ABC SA,Optus D2,12470 H,NB,47300,4/5,null
+ABC SA,Optus D2,12658 H,NB,47300,4/5,null
+ABC NT,Eutelsat 172B,11044 V,South Pacific,45000,4/5,null
+ABC NT,Optus D2,12470 H,NB,47300,4/5,null
+ABC NT,Optus D2,12658 H,NB,47300,4/5,null
+ABC WA,Eutelsat 172B,11044 V,South Pacific,45000,4/5,null
+ABC WA,Optus D2,12470 H,NB,47300,4/5,null
+ABC WA,Optus D2,12658 H,NB,47300,4/5,null
+ABC Victoria,Optus D2,12470 H,NB,47300,4/5,null
+ABC Victoria,Optus D2,12658 H,NB,47300,4/5,null
+ABC Queensland,Eutelsat 172B,11044 V,South Pacific,45000,4/5,null
+ABC Queensland,Optus D2,12470 H,NB,47300,4/5,null
+ABC Queensland,Optus D2,12658 H,NB,47300,4/5,null
+Bricast,BRIsat,3532 H,null,13330,3/5,null
+Bricast,BRIsat,3855 V,null,13330,3/5,null
+RTRS 1,Express AMU7,3662 R,Fixed C,15285,3/4,null
+RTRS 1,Express AMU7,3714 R,Fixed C,15285,3/4,null
+RTRS 1,Express AMU3,3688 R,Fixed C,15284,3/4,null
+RTRS 1,Express AMU3,3785 R,Fixed C,15284,3/4,null
+RTRS 1,Yamal 401,3640 R,Russia C,15285,3/4,0
+RTRS 1,Yamal 401,3705 L,Russia C,15285,3/4,0
+RTRS 1,Yamal 401,3786 R,Russia C,15284,3/4,0
+RTRS 1,Yamal 401,4064 R,Russia C,15282,3/4,0
+RTRS 1,Express AM6,10718 H,Ku Fixed 1,22900,3/4,45-47
+RTRS 1,Express AM6,10840 V,Ku Fixed 1,15284,3/4,45-47
+RTRS 1,Express AM6,10937 V,Ku Fixed 1,15284,3/4,45-47
+RTRS 1,Yamal 601,3627 L,C,20580,5/6,44-45
+RTRS 1,Yamal 601,3643 R,C,15284,3/4,44-45
+RTRS 1,Yamal 601,3704 L,C,15284,3/4,44-45
+RTRS 1,Yamal 601,3977 L,C,15284,3/4,44-45
+RTRS 1,Cosmos 2520,3720 L,null,25760,2/3,null
+RTRS 1,Express AM7,3665 L,C Fixed,15284,3/4,0
+RTRS 1,Express AM7,4085 L,C Fixed,15284,3/4,0
+RTRS,Express AMU7,3662 R,Fixed C,15285,3/4,null
+RTRS,Express AMU7,3714 R,Fixed C,15285,3/4,null
+RTRS,Express AMU3,3688 R,Fixed C,15284,3/4,null
+RTRS,Express AMU3,3785 R,Fixed C,15284,3/4,null
+RTRS,Yamal 401,3640 R,Russia C,15285,3/4,0
+RTRS,Yamal 401,3705 L,Russia C,15285,3/4,0
+RTRS,Yamal 401,3786 R,Russia C,15284,3/4,0
+RTRS,Yamal 401,4064 R,Russia C,15282,3/4,0
+RTRS,Express AM6,10718 H,Ku Fixed 1,22900,3/4,45-47
+RTRS,Express AM6,10840 V,Ku Fixed 1,15284,3/4,45-47
+RTRS,Express AM6,10937 V,Ku Fixed 1,15284,3/4,45-47
+RTRS,Yamal 601,3627 L,C,20580,5/6,44-45
+RTRS,Yamal 601,3643 R,C,15284,3/4,44-45
+RTRS,Yamal 601,3977 L,C,15284,3/4,44-45
+RTRS,Cosmos 2520,3720 L,null,25760,2/3,null
+RTRS,Express AM7,3665 L,C Fixed,15284,3/4,0
+RTRS,Express AM7,4085 L,C Fixed,15284,3/4,0
+GMA Network,Telstar 18 Vantage,3745 H,Asia & Australia & Pacific,4583,3/4,0
+GMA Network,Telstar 18 Vantage,3751 H,Asia & Australia & Pacific,4444,2/3,0
+GMA Network,Telstar 18 Vantage,3847 H,Asia & Australia & Pacific,8000,3/4,0
+GMA Network,Apstar 7,3850 V,C,4444,2/3,38.5
+GMA Network,SES 22,4015 V,North America,4444,2/3,0
+Solar Entertainment,Telstar 18 Vantage,3835 H,Asia & Australia & Pacific,2500,3/4,0
+Solar Entertainment,Telstar 18 Vantage,3867 H,Asia & Australia & Pacific,3750,3/4,0
+Zoe Broadcasting Network,Telstar 18 Vantage,3872 H,Asia & Australia & Pacific,3750,5/6,0
+Viva Entertainment,Telstar 18 Vantage,3876 H,Asia & Australia & Pacific,3750,3/4,0
+People's TV,Telstar 18 Vantage,3930 V,Asia & Australia & Pacific,3500,5/6,0
+SpeedCast,Telstar 18 Vantage,3946 V,Asia & Australia & Pacific,17600,3/4,0
+TV 5 Network,Telstar 18 Vantage,4081 H,Asia & Australia & Pacific,10000,3/5,0
+VTV,Apstar 6C,3418 H,C,19200,2/3,0
+MWD Digital TV,LaoSat 1,3576 V,C,21600,2/3,0
+LaoSat,LaoSat 1,3651 V,C,12000,2/3,0
+CCTV,Apstar 6C,3940 V,C,28800,3/4,0
+CCTV,Apstar 6C,4020 V,C,28800,3/4,0
+CCTV,Apstar 6C,4060 V,C,28800,3/4,0
+CCTV,ChinaSat 6D,3720 H,C,27500,3/4,0
+CCTV,ChinaSat 6D,3780 V,C,27500,3/4,0
+CCTV,ChinaSat 6D,3820 V,C,27500,null,0
+CCTV,ChinaSat 6D,4060 V,C,27500,3/4,0
+CCTV,ChinaSat 6D,4100 V,C,27500,3/4,0
+CCTV,ChinaSat 6D,4130 V,C,14800,3/4,0
+CCTV,ChinaSat 6D,4145 V,C,8330,3/4,0
+CCTV,ChinaSat 6E,3840 H,null,27500,3/4,null
+CCTV,ChinaSat 6E,3880 H,null,27500,3/4,null
+CCTV,ChinaSat 6E,3920 H,null,27500,3/4,null
+CCTV,ChinaSat 6E,4116 H,null,21374,3/4,null
+CCTV,ChinaSat 9,11750 R,Ku,30000,4/5,0
+CCTV,ChinaSat 9,11810 R,Ku,30000,4/5,0
+CCTV,ChinaSat 9,11860 R,Ku,30000,4/5,0
+CCTV,ChinaSat 9,12040 L,Ku,30000,4/5,0
+CCTV,ChinaSat 9,12100 R,Ku,28800,3/4,0
+CCTV,ChinaSat 9,12120 L,Ku,30000,4/5,0
+CCTV,Hotbird 13G,11585 V,Wide,27500,5/6,44-46
+CCTV,Intelsat 34,4175 H,Americas & Europe,30000,3/4,0
+CCTV,Galaxy 19,12084 V,Ku,20760,3/4,0
+Shanghai Media Group,ChinaSat 6D,3794 H,C,20000,3/4,0
+Shanghai Media Group,ChinaSat 6D,3940 V,C,29500,3/4,0
+Shanghai Media Group,ChinaSat 6E,3808 H,null,8800,3/4,null
+Shanghai Media Group,AsiaSat 7,3715 H,C,8167,3/4,36-40
+Xizang TV,ChinaSat 6D,3989 H,C,9070,3/4,0
+Xinjiang TV,ChinaSat 6D,4120 H,C,27500,3/4,0
+Sky PerfecTV!,JCSAT 3A,12428 V,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12523 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12568 V,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12583 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12598 V,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12613 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12628 V,Ku,21096,3/4,0
+Sky PerfecTV!,JCSAT 3A,12643 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12673 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12688 V,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12703 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12718 V,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 3A,12733 H,Ku,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12448 V,Japan,21096,3/4,0
+Sky PerfecTV!,JCSAT 4B,12523 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12553 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12568 V,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12583 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12598 V,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12613 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12628 V,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12643 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12673 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12688 V,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12703 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12718 V,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 4B,12733 H,Japan,23303,3/5,0
+Sky PerfecTV!,JCSAT 15,12291 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12331 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12371 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12411 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12431 L,Ku,33756,7/9,null
+Sky PerfecTV!,JCSAT 15,12451 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12471 L,Ku,33756,7/9,null
+Sky PerfecTV!,JCSAT 15,12491 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12531 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12571 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12611 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12631 L,Ku,33756,7/9,null
+Sky PerfecTV!,JCSAT 15,12651 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12671 L,Ku,33756,7/9,null
+Sky PerfecTV!,JCSAT 15,12691 R,Ku,28860,3/4,null
+Sky PerfecTV!,JCSAT 15,12711 L,Ku,33756,7/9,null
+Sky PerfecTV!,JCSAT 15,12731 R,Ku,28860,3/4,null
+Chunghwa Telecom,AsiaSat 9,3971 V,Global,15650,3/4,null
+Chunghwa Telecom,ST 2,3629 H,Regional,24700,3/4,40-42
+Chunghwa Telecom,ST 2,3632 V,Regional,36000,5/6,40-42
+Chunghwa Telecom,ST 2,11633 H,Asia,30000,3/5,0
+Chunghwa Telecom,ST 2,11669 H,Asia,30000,3/5,0
+Chunghwa Telecom,ST 2,12702 H,Asia,20000,3/4,0
+AsiaSat,AsiaSat 9,4140 V,Global,29720,5/6,null
+AsiaSat,AsiaSat 9,4180 V,Global,30830,5/6,null
+AsiaSat,AsiaSat 7,4080 H,C,29720,5/6,36-40
+AsiaSat,AsiaSat 7,4100 V,C,29720,5/6,36-40
+AsiaSat,AsiaSat 5,3960 H,C,30000,5/6,38-40
+AsiaSat,AsiaSat 5,4040 H,C,29720,5/6,38-40
+Metra TV,Telkom 3S,12316 H,Indonesia,7500,3/4,null
+CGTN,ChinaSat 6E,3770 H,null,12360,3/5,null
+Sichuan TV,ChinaSat 6E,3903 V,null,9300,3/4,null
+JSBC,ChinaSat 6E,3971 H,null,10000,3/4,null
+CETV,ChinaSat 6E,4000 H,null,27500,3/4,null
+Nei Monggol TV,ChinaSat 6E,4171 H,null,9200,3/4,null
+China National Radio,ChinaSat 6E,4175 V,null,18000,1/2,null
+Sahara Samay,AsiaSat 7,3652 V,C,14100,3/4,36-40
+RTRS Yakutia,Express AMU3,3675 R,Fixed C,5120,3/4,null
+CCTV,ChinaSat 9B,12020 R,null,28800,3/4,null
+BBS,G-Sat 9,11232 V,null,4444,5/6,null
+BBS,G-Sat 30,4097 H,C,1085,3/4,null
+RSCC,Express AMU3,3925 R,Global,35390,3/5,null
+RSCC,Express 103,3595 R,C Fixed,38700,8/9,39.7-41.7
+RSCC,Express 103,3875 R,Global,11121,1/2,null
+RSCC,ABS 2A,12653 V,Russia,35007,2/3,0
+RSCC,Express AT1,12284 R,Wide,27500,3/4,0
+RSCC,Express AM6,10713 V,Ku Fixed 1,14180,3/4,45-47
+RSCC,Express AM6,10730 V,Ku Fixed 1,14180,3/4,45-47
+RSCC,Express AM6,10749 V,Ku Fixed 1,16410,2/3,45-47
+RSCC,Express AM6,10865 V,Ku Fixed 1,1808,3/4,45-47
+RSCC,Express AM6,11481 H,Ku Fixed 2,27500,3/4,48-49
+RSCC,Express AM8,3629 R,Global,10900,1/2,null
+RSCC,Express AM8,3675 R,Global,35393,3/5,null
+Russkiy Mir,Express 103,3595 R,C Fixed,38700,8/9,39.7-41.7
+Russkiy Mir,Express AT1,12169 R,Wide,27500,3/4,0
+Russkiy Mir,Express AT1,12245 R,Wide,27500,3/4,0
+Gazprom Space Systems,Yamal 401,3645 L,Russia C,28000,3/4,0
+Gazprom Space Systems,Yamal 401,3675 L,Russia C,17500,3/4,0
+Gazprom Space Systems,Yamal 401,11265 H,Russia Ku,30000,3/4,0
+Gazprom Space Systems,Yamal 401,11385 V,Russia Ku,30000,3/4,0
+Gazprom Space Systems,Yamal 401,11385 H,Russia Ku,30000,3/4,0
+Gazprom Space Systems,Yamal 401,12566 V,Northern,10547,3/4,46-47
+Gazprom Space Systems,Yamal 402,11056 H,Europe,10000,3/4,null
+Gazprom Space Systems,Yamal 402,11265 V,Russia,30000,3/4,0
+Gazprom Space Systems,Yamal 402,11345 V,Russia,30000,3/4,0
+Gazprom Space Systems,Yamal 402,11385 H,Russia,30000,3/4,0
+Gazprom Space Systems,Yamal 601,4037 L,C,16000,3/4,44-45
+RTRS Krasnoyarsk,Yamal 401,3675 R,Russia C,5120,3/4,0
+RTRS Tomsk,Yamal 401,3681 R,Russia C,5130,3/4,0
+TAS,ST 2,3672 H,Regional,10000,3/4,40-42
+TAS,Apstar 7,12561 V,China,12400,3/4,0
+NER Taipei,ST 2,3690 H,Regional,1000,3/4,40-42
+Voice of Strait,ChinaSat 12,4035 H,C,1073,3/4,null
+Raj TV Network,ChinaSat 12,4140 V,C,28800,3/4,null
+Kantipur Media Group,Apstar 7,3634 H,C,6000,3/5,38.5
+Doordarshan,G-Sat 17,3925 H,C,27500,3/4,null
+Doordarshan,G-Sat 10,3885 V,C,30000,3/4,null
+Doordarshan,G-Sat 18,3777 H,India,4400,5/6,null
+Doordarshan,G-Sat 18,3782 H,India,2000,3/4,null
+AIR,G-Sat 10,4108 V,C,1000,3/4,null
+AIR,G-Sat 10,4113 V,C,1000,3/4,null
+AIR,G-Sat 10,4116 V,C,1000,3/4,null
+AIR,G-Sat 10,4127 V,C,1000,3/4,null
+AIR,G-Sat 10,4130 V,C,1000,3/4,null
+AIR,G-Sat 18,3875 H,India,1000,3/4,null
+KTN,Intelsat 22,3703 L,West hemi,4000,3/4,null
+IPP Media,Intelsat 22,3928 R,West hemi,8572,2/3,null
+TBC,Intelsat 22,4120 L,West hemi,9583,3/4,null
+TRBNA,Eutelsat 70B,11050 H,Central Asia,19210,1/2,44-46
+Voice of America,Eutelsat 70B,11069 H,Central Asia,7325,3/5,44-46
+Voice of America,SES 5,4014 R,Hemi,1820,2/3,39
+Voice of America,Telstar 12 Vantage,11026 H,Pan America,12500,1/2,0
+TV5Monde,Intelsat 17,3836 H,Landmass,14870,3/5,38.2
+TV5Monde,Intelsat 10-02,12643 V,Spot 3,28800,3/4,0
+Tata Communications,Intelsat 17,3845 V,Landmass,28800,5/6,38.2
+Tata Communications,Intelsat 17,3966 H,Landmass,14400,2/3,38.2
+Tata Communications,Intelsat 17,4015 V,Landmass,30000,3/4,38.2
+Indiasign,G-Sat 30,3756 H,C,15000,5/6,null
+Indiasign,G-Sat 30,3776 H,C,11250,5/6,null
+Indiasign,G-Sat 30,3838 H,C,3750,5/6,null
+Indiasign,G-Sat 30,4133 H,C,11888,3/4,null
+Indiasign,Intelsat 20,3893 V,Landmass,2500,5/6,37.1-39.1
+Indiasign,Intelsat 20,4013 H,Landmass,7200,3/4,37.1-39.1
+Indiasign,Intelsat 20,4116 V,Landmass,8800,5/6,37.1-39.1
+Indiasign,Intelsat 17,3876 H,Landmass,14300,3/4,38.2
+Indiasign,Intelsat 17,3894 H,Landmass,13840,5/6,38.2
+Sun TV Network,Intelsat 17,3885 V,Landmass,30000,3/4,38.2
+Sun TV Network,Intelsat 17,3925 V,Landmass,30000,3/4,38.2
+New Delhi TV,Intelsat 17,3914 H,Landmass,11200,3/4,38.2
+Indo Teleports,Intelsat 20,3828 V,Landmass,7200,3/4,37.1-39.1
+Indo Teleports,Intelsat 20,4090 H,Landmass,14368,3/4,37.1-39.1
+Indo Teleports,Intelsat 17,3932 H,Landmass,18330,2/3,38.2
+Encompass,Measat 3a,3760 H,Global,29700,5/6,null
+Encompass,Measat 3a,3960 H,Global,29700,5/6,null
+Encompass,Measat 3a,4000 H,Global,29700,5/6,null
+Encompass,Measat 3a,4040 H,Global,29700,3/5,null
+Encompass,Intelsat 17,3984 H,Landmass,14400,3/4,38.2
+Encompass,Galaxy 37/Horizons 4,4160 V,North America C,30000,5/6,0
+Planetcast,Measat 3a,4080 H,Global,30000,3/5,null
+Planetcast,G-Sat 30,3805 H,C,28500,5/6,null
+Planetcast,G-Sat 30,3898 H,C,6800,3/4,null
+Planetcast,G-Sat 30,3925 H,C,28500,5/6,null
+Planetcast,G-Sat 30,3958 H,C,9500,5/6,null
+Planetcast,Intelsat 20,4184 V,Landmass,21600,8/9,37.1-39.1
+Planetcast,Intelsat 17,4006 H,Landmass,14400,3/4,38.2
+Planetcast,Intelsat 17,4024 H,Landmass,14400,2/3,38.2
+RMS Radio,Intelsat 39,3871 L,West hemi,2150,5/6,39.7-41.7
+ZNBC,Intelsat 33e,3771 R,Sub-Sahara,5000,3/4,0
+BFBS,ABS 2,12730 H,Southern,23330,1/2,43-45
+BFBS,NSS 12,3775 L,East hemi,9583,2/3,null
+BFBS,NSS 12,3798 R,West hemi,19167,3/5,39-40
+BFBS,Eutelsat 10B,11221 V,Wide Ku,30000,5/6,null
+BFBS,SES 6,4133 R,Hemi,22500,3/5,0
+Alhurra TV,NSS 12,4060 L,Global,7043,3/4,34-36
+VoA,NSS 12,4069 L,Global,1040,1/2,34-36
+VoA,Hotbird 13G,12226 V,Wide,27500,3/4,44-46
+RTRS 2,Express AMU7,3766 R,Fixed C,15285,3/4,null
+RTRS 2,Express AMU3,3725 R,Fixed C,15285,3/4,null
+RTRS 2,Yamal 401,3725 L,Russia C,15284,3/4,0
+RTRS 2,Yamal 401,3728 R,Russia C,15284,3/4,0
+RTRS 2,Express AM6,10747 H,Ku Fixed 1,22900,3/4,45-47
+RTRS 2,Express AM6,10875 V,Ku Fixed 1,15284,3/4,45-47
+RTRS 2,Yamal 601,3654 L,C,20580,5/6,44-45
+RTRS 2,Yamal 601,3663 R,C,15284,3/4,44-45
+RTRS 2,Cosmos 2520,3760 L,null,25760,2/3,null
+RTRS 2,Express AM7,3685 L,C Fixed,15284,3/4,0
+RTRS Smolensk,Express AM6,10853 V,Ku Fixed 1,5130,3/4,45-47
+RTRS Bryansk,Express AM6,10909 V,Ku Fixed 1,28724,3/4,45-47
+RTRS Bryansk,Express AM7,3872 L,C Fixed,5120,3/4,0
+RTRS Yaroslavl,Express AM6,10909 V,Ku Fixed 1,28724,3/4,45-47
+RTRS Belgorod,Express AM6,10909 V,Ku Fixed 1,28724,3/4,45-47
+RTRS Belgorod,Express AM7,3878 L,C Fixed,5130,3/4,0
+RTRS Rostov,Express AM6,10909 V,Ku Fixed 1,28724,3/4,45-47
+RTRS Rostov,Express AM7,3978 L,C Fixed,5120,3/4,0
+RTRS Krasnodar,Express AM6,10909 V,Ku Fixed 1,28724,3/4,45-47
+RTRS Sochi,Express AM6,10909 V,Ku Fixed 1,28724,3/4,45-47
+Saudi Broadcasting Authority,Al Yah 1,11747 H,East,27500,5/6,49-50
+Saudi Broadcasting Authority,Arabsat 5A,10924 H,East MENA,17000,3/4,null
+Saudi Broadcasting Authority,Arabsat 5A,12700 H,East MENA,2000,1/2,null
+Saudi Broadcasting Authority,Badr 7,11230 H,MENA,27500,3/4,null
+Saudi Broadcasting Authority,Badr 8,12149 H,EMENA BSS,27500,5/6,null
+Saudi Broadcasting Authority,Hotbird 13F,12558 V,Wide,27500,5/6,44-46
+Saudi Broadcasting Authority,Nilesat 201,12149 H,Middle East,27500,3/4,48
+Saudi Broadcasting Authority,Nilesat 201,12284 V,Middle East,27500,5/6,48
+North Telecom,Al Yah 1,11766 V,East,27500,7/8,49-50
+North Telecom,Al Yah 1,11958 V,East,27500,7/8,49-50
+North Telecom,Al Yah 1,12073 V,East,27500,5/6,49-50
+North Telecom,Al Yah 1,12149 V,East,27500,3/4,49-50
+Twofour54,Al Yah 1,11785 H,East,27500,3/4,49-50
+Twofour54,Al Yah 1,11938 H,East,27500,3/4,49-50
+Twofour54,Badr 8,11977 V,EMENA BSS,27500,3/4,null
+GEM Group,Al Yah 1,11881 V,East,27500,5/6,49-50
+GEM Group,Al Yah 1,12034 V,East,27500,3/4,49-50
+Arqiva,Al Yah 1,11996 V,East,27500,7/8,49-50
+Arqiva,Hotbird 13G,11137 H,Wide,27500,3/4,44-46
+Arqiva,Eutelsat 9B,12092 H,Wide,27500,3/4,44-45
+Du,Intelsat 20,4150 H,Landmass,14400,3/4,37.1-39.1
+Du,Al Yah 1,12054 H,MENA,27500,3/5,51-52
+Du,Al Yah 1,12169 H,MENA,27500,5/6,51-52
+Du,TurkmenÄlem/MonacoSat,12437 H,Middle East & North Africa,27500,5/6,51
+Du,TurkmenÄlem/MonacoSat,12476 H,Middle East & North Africa,27500,5/6,51
+Du,Badr 8,12111 H,EMENA BSS,27500,5/6,null
+Du,Hotbird 13G,11747 H,Wide,27500,3/4,44-46
+Du,Eutelsat 7 West A,12322 V,MENA,30000,3/4,49
+Wide Network Solutions,Express AM6,12594 V,Ku Fixed 2,27500,2/3,48-49
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10762 V,East,27500,2/3,0
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10762 H,East,30000,3/4,0
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10845 V,East,27500,2/3,0
+Wide Network Solutions,TurkmenÄlem/MonacoSat,10887 V,East,27500,2/3,0
+Wide Network Solutions,TurkmenÄlem/MonacoSat,11221 V,East,27500,2/3,0
+Persiana Media Group,TurkmenÄlem/MonacoSat,10804 H,East,27500,2/3,0
+RTRS Yamal,Yamal 601,3594 R,C,5120,3/4,44-45
+RTRS Saratov,Yamal 601,3595 L,C,5130,3/4,44-45
+RTRS Saratov,Yamal 601,3822 L,C,5130,3/4,44-45
+RTRS Yugoria,Yamal 601,3621 R,C,5130,3/4,44-45
+RTRS Yugoria,Yamal 601,3921 R,C,5130,3/4,44-45
+RTRS Tyumen,Yamal 601,3628 R,C,5120,3/4,44-45
+RTRS Chelyabinsk,Yamal 601,3695 R,C,5120,3/4,44-45
+Silverbird TV,Azerspace 1,4140 V,Africa & Europe,2328,3/4,null
+RTRS Stavropol,Express AM7,3608 L,C Fixed,5130,3/4,0
+RTRS Tula,Express AM7,3615 L,C Fixed,5120,3/4,0
+RTRS Kaluga,Express AM7,3622 L,C Fixed,5130,3/4,0
+RTRS Karelija,Express AM7,3628 L,C Fixed,5120,3/4,0
+RTRS Murmansk,Express AM7,3635 L,C Fixed,5130,3/4,0
+RTRS Voronezh,Express AM7,3643 L,C Fixed,5120,3/4,0
+Dunya Media Group,Paksat 1R,3718 V,C,12000,3/5,37-39
+VU TV Network,Paksat 1R,3754 V,C,7500,3/4,37-39
+Suno FM,Paksat 1R,3760 H,C,1003,1/2,37-39
+TeleNest,Apstar 7,3745 V,C,5000,3/5,38.5
+TeleNest,Apstar 7,3753 V,C,8330,3/5,38.5
+TeleNest,Paksat 1R,3799 V,C,5500,3/4,37-39
+TeleNest,Paksat 1R,3969 V,C,6944,3/4,37-39
+Geo TV Network,Paksat 1R,3813 V,C,16855,3/5,37-39
+Express,Paksat 1R,3838 V,C,4800,3/4,37-39
+SS Creative Solutions,AsiaSat 7,3880 H,C,29720,3/5,36-40
+SS Creative Solutions,Paksat 1R,3846 V,C,6600,3/4,37-39
+SS Creative Solutions,Paksat 1R,4023 V,C,4800,3/4,37-39
+SS Creative Solutions,Paksat 1R,4037 V,C,4800,3/4,37-39
+SS Creative Solutions,Paksat 1R,4060 V,C,5000,3/4,37-39
+Radio Pakistan,Paksat 1R,3847 H,C,1081,3/4,37-39
+PTV Network,Paksat 1R,4001 V,C,13333,3/4,37-39
+PTV Network,Paksat 1R,4052 V,C,5800,3/5,37-39
+AVT Channels,Paksat 1R,4125 V,C,6400,2/3,37-39
+KTN Network,Paksat 1R,4135 V,C,2400,5/6,37-39
+Hum Network,Paksat 1R,4160 V,C,16100,3/4,37-39
+DalSat Global,Arabsat 5C,3857 L,EMEA,4270,3/4,null
+Hit Radio,Arabsat 5C,3866 L,EMEA,1150,3/4,null
+Arabsat,Badr 8,11747 V,MENA BSS,27500,3/4,48
+Arabsat,Badr 8,11785 V,MENA BSS,27500,3/4,48
+Arabsat,Badr 8,11996 H,EMENA BSS,27500,3/4,null
+Arabsat,Badr 8,12073 H,EMENA BSS,27500,3/4,null
+Arabsat,Arabsat 5C,3884 R,EMEA,27500,5/6,null
+ASBU Bouquet,Arabsat 5C,3934 L,EMEA,27500,7/8,null
+ASBU Bouquet,Hispasat 30W-6,12132 H,America,27500,3/4,0
+Signet,Amos 17,3846 R,null,6730,2/3,null
+EClutch,Eutelsat 16A,10721 H,Europe B,30000,3/5,44-46
+Rwanda TV,Eutelsat 10B,3869 R,Wide C,3333,2/3,42-43
+StarTimes TV Kenya,Eutelsat 10B,3898 R,Wide C,20150,5/6,42-43
+New World TV,Eutelsat 10B,3918 R,Wide C,6480,3/4,42-43
+TVT,Eutelsat 10B,4039 R,Wide C,3333,3/4,42-43
+IMPD TV,ABS 3A,3962 H,West hemi,7200,3/4,null
+IMPD TV Worldwide,ABS 3A,3982 H,West hemi,5000,3/4,null
+IMPD TV Rondônia,ABS 3A,3987 H,West hemi,3333,5/6,null
+CruiseSat,ABS 3A,4130 V,Global,22080,3/5,null
+CruiseSat,Amazonas 3,4040 V,America,23333,3/4,0
+CruiseSat,Anik F1R,4120 H,South America C,22000,3/4,null
+Rai Way Sicilia 1,Eutelsat 5 West B,11016 H,Transalpine,35300,2/3,0
+CRTV,Eutelsat 8 West B,3832 L,C,7585,2/3,40
+TopStar,Eutelsat 8 West B,3850 R,C,16330,3/4,40
+Vivacom MCPC,Eutelsat 36B,11345 H,Eurasia,30000,3/4,46-47
+Vivacom MCPC,Eutelsat 8 West B,3925 R,C,30000,5/6,40
+RFI,Eutelsat 8 West B,3964 R,C,4166,1/2,40
+Freeview,Telstar 12 Vantage,11043 V,North Sea,44100,9/10,null
+Freeview,Intelsat 901,11495 V,Spot 2,44100,9/10,null
+TV Sul Bahia,Intelsat 37e,3773 R,Latin America,2397,2/3,null
+TV Barriga Verde,Intelsat 37e,3778 L,Latin America,3993,5/6,null
+Rede Centro Oeste,Intelsat 37e,3778 R,Latin America,6333,5/6,null
+TPA,Yamal 402,10962 V,Southern,5926,5/6,null
+TPA,Intelsat 37e,4008 R,Africa & Europe,6730,3/4,38.1
+ORTM,Intelsat 37e,4095 L,Africa & Europe,7325,3/4,38.1
+ORTM,Intelsat 37e,4129 L,Global,2060,3/4,null
+TV Cidade Fortaleza,SES 4,4015 L,West hemi,5983,3/5,0
+Rede Pampa de Rádios,SES 4,4045 R,West hemi,2500,2/3,0
+TV Cidade Verde Piauí,SES 4,4058 L,West hemi,5000,5/6,0
+TV Pampa,SES 4,4062 R,West hemi,6443,5/6,0
+TV Antena 10,SES 4,4063 L,West hemi,3960,3/4,0
+TV Tropical,SES 4,4068 L,West hemi,4995,3/4,0
+TV Correio,SES 4,4075 L,West hemi,5416,2/3,0
+TDA,Eutelsat 7 West A,10922 V,MENA,27500,7/8,49
+TDA,Eutelsat 7 West A,11680 H,MENA,27500,2/3,49
+TDA,SES 4,12674 H,Europe & Middle East,20740,3/4,48-50
+TDA,Alcomsat 1,12160 H,null,30000,2/3,null
+TDA,Alcomsat 1,12232 H,null,15910,3/4,null
+TDA,Alcomsat 1,12250 H,null,12510,3/4,null
+RTP,Intelsat 901,3830 R,East hemi,8842,1/2,null
+TV Tarobá Cascavel,Intelsat 14,3733 V,Americas C,4812,5/6,0
+TV Guararapes,Intelsat 14,3750 V,Americas C,4780,3/4,0
+TV Guararapes,Star One C2,4110 H,South America,4780,3/4,null
+Sertel,Intelsat 14,3761 V,Americas C,8332,3/4,0
+Box Brazil,Intelsat 14,3782 H,Americas C,20084,3/4,0
+Suyapa TV,Intelsat 14,3784 V,Americas C,2400,3/4,0
+Rede Amazônica,Intelsat 14,3804 H,Americas C,10832,5/6,0
+Rede Amazônica,Intelsat 14,3806 V,Americas C,15000,3/4,0
+Rede Amazônica,Intelsat 14,3815 H,Americas C,11000,3/4,0
+Rede Amazônica,Intelsat 14,3825 V,Americas C,15000,5/6,0
+TV Pai Eterno,Intelsat 14,3852 V,Americas C,10000,2/3,0
+Rede Mais,Intelsat 14,3865 H,Americas C,3910,3/4,0
+Grupo ATV,Intelsat 14,3945 V,Americas C,13332,2/3,0
+Antena 7,Intelsat 14,3971 V,Americas C,2400,3/5,0
+SiBCI,Intelsat 35e,11100 V,Caribbean,45000,3/4,null
+SiBCI,Intelsat 35e,11646 V,Caribbean,10000,2/3,null
+SiBCI,Intelsat 14,4059 H,Americas C,26666,3/4,0
+CRP Radios,Intelsat 14,4080 H,Americas C,666,null,0
+Latina,Intelsat 14,4088 H,Americas C,5000,3/4,0
+IRTP,Intelsat 14,4102 H,Americas C,9115,3/4,0
+Televicentro,Intelsat 14,4148 V,Americas C,6400,3/4,0
+Grupo RPP,Intelsat 14,4178 H,Americas C,1666,3/4,0
+Televisa Networks,Eutelsat 9B,11759 V,Wide,14324,5/6,44-45
+Televisa Networks,Intelsat 34,3805 V,Americas & Europe,23330,5/6,0
+Televisa Networks,Intelsat 34,4180 V,Americas & Europe,30000,5/6,0
+Televisa Networks,Eutelsat 117 West A,4060 H,Hemi C,30000,5/6,null
+Televisa Networks,Eutelsat 117 West A,4100 H,Hemi C,30000,5/6,null
+Televisa Networks,Eutelsat 117 West A,4140 H,Hemi C,30000,5/6,null
+HBO Network Latinoamérica,Intelsat 34,3885 V,Americas & Europe,30000,5/6,0
+HBO Network Latinoamérica,Intelsat 21,4040 V,West hemi,30000,5/6,0
+HBO Network Latinoamérica,Intelsat 21,4080 H,West hemi,32700,3/4,0
+Artear,Intelsat 34,3885 H,Americas & Europe,30000,5/6,0
+Artear,Intelsat 34,4086 H,Americas & Europe,15000,3/4,0
+Albavisión,Intelsat 34,3918 H,Americas & Europe,7915,3/5,0
+Walt Disney TV,Intelsat 34,3925 V,Americas & Europe,30000,5/6,0
+Walt Disney TV,Intelsat 34,4086 V,Americas & Europe,15000,3/4,0
+Walt Disney TV,Galaxy 18,4140 H,C,34286,25/36,0
+Repretel,Intelsat 34,3930 H,Americas & Europe,4000,3/5,0
+Turner,Intelsat 34,3966 V,Americas & Europe,15000,3/4,0
+Turner,Intelsat 34,4015 V,Americas & Europe,30000,5/6,0
+Turner,Intelsat 21,3760 V,West hemi,27690,7/8,0
+Turner,Intelsat 21,3920 H,West hemi,30000,9/10,0
+Turner,Galaxy 30,4100 V,North America,34284,2/3,0
+Turner,Galaxy 30,4120 H,North America,34284,2/3,0
+ESPN,Telstar 12 Vantage,12609 H,Europe & Middle East,7552,3/4,null
+ESPN,Intelsat 34,4015 H,Americas & Europe,30000,5/6,0
+ESPN,Intelsat 21,3790 V,West hemi,13463,5/6,0
+ESPN,Intelsat 21,3809 V,West hemi,16760,5/6,0
+ESPN,Intelsat 21,3910 V,West hemi,15000,5/6,0
+ESPN,Galaxy 18,4160 V,C,34286,25/36,0
+ESPN,Galaxy 18,4180 H,C,34286,25/36,0
+CNN,Intelsat 34,4055 H,Americas & Europe,32700,3/4,0
+Bloomberg TV,Intelsat 34,4099 H,Americas & Europe,7500,3/4,0
+Igreja Cristã Maranata,Intelsat 34,4105 V,Americas & Europe,4000,3/5,0
+SportsMax,Intelsat 34,4139 V,Americas & Europe,10000,3/4,0
+Caracol TV,Intelsat 21,3789 H,West hemi,5825,8/9,0
+TV Nacional de Chile,Intelsat 21,3975 H,West hemi,4500,2/3,0
+Paramount Networks Americas,SES 14,4055 R,Europe & America,30000,5/6,36-38
+Paramount Networks Americas,Intelsat 21,4120 V,West hemi,30000,5/6,0
+Enlace,Intelsat 21,4144 H,West hemi,3750,3/4,0
+CTN,Intelsat 21,4159 V,West hemi,3750,3/4,0
+María+Visión,Intelsat 21,4174 V,West hemi,3333,3/4,0
+Teletrak,Telstar 14R,11592 V,Southern Cone,5165,null,null
+TV A Crítica,Star One C3,3723 H,South America,3750,3/4,0
+Rede Bahia,Star One C3,3747 H,South America,7726,8/9,0
+Rede Bahia,Star One C3,3758 H,South America,11275,8/9,0
+TV Jangadeiro,Star One C3,3764 V,South America,4165,5/6,0
+TV Mais Família,Star One C3,3775 H,South America,4686,3/4,0
+TV Alterosa,Star One C3,3787 V,South America,7500,3/4,0
+TV Serra Dourada,Star One C3,3815 H,South America,3600,3/4,0
+RBI TV,Star One C3,3846 V,South America,5000,3/4,0
+Rede 21,Star One C3,3854 H,South America,7500,3/4,0
+TV Gazeta Alagoas,Star One C3,3854 V,South America,4583,3/4,0
+TV Thathi Vale,Star One C3,3858 V,South America,3750,null,0
+Boa Vontade TV,Star One C3,3868 V,South America,4833,5/6,0
+Rede CNT Rio de Janeiro,Star One C3,3871 H,South America,5000,5/6,0
+SIC TV,Star One C3,3876 V,South America,2500,3/4,0
+TV Gazeta São Paulo,Star One C3,3883 H,South America,5833,3/4,0
+Fundação Cultural Riograndense,Star One C3,3887 H,South America,740,3/4,0
+SBT Rio,Star One C3,3894 H,South America,5000,3/4,0
+TV Thathi Campinas,Star One C3,3910 V,South America,3750,3/4,0
+Band Vale,Star One C3,3949 V,South America,3750,3/4,0
+TV Aparecida,Star One D2,3982 V,Brazil & South America,4573,3/4,null
+TV Aparecida,Star One C3,3954 V,South America,6666,3/4,0
+Band Amazonas,Star One C3,3984 V,South America,3750,3/4,0
+Band Bahia,Star One C3,3988 V,South America,3750,5/6,0
+Canais Globo,Star One C3,4012 V,South America,22860,4/5,0
+Canais Globo,Star One D1,4020 V,Brazil C,34280,4/5,0
+Canais Globo,Star One D1,4100 V,Brazil C,34280,4/5,0
+TV Canção Nova,Star One C3,4062 V,South America,17000,5/6,0
+Band SP Interior,Star One C3,4065 H,South America,3750,3/4,0
+Band Minas,Star One C3,4069 H,South America,4170,3/4,0
+Band Rio Interior,Star One C3,4073 H,South America,3750,3/4,0
+Band Paraná,Star One C3,4078 H,South America,3750,3/4,0
+Band Campinas,Star One C3,4083 H,South America,3633,3/4,0
+Big Brother Brasil,Star One C3,4091 V,South America,17000,null,0
+Grupo Bandeirantes,Star One D2,3990 V,Brazil & South America,7400,3/4,null
+Grupo Bandeirantes,Star One C3,4120 H,South America,30000,5/6,0
+Band RS,Star One C3,4125 V,South America,3750,3/4,0
+Inter TV,Star One C3,4134 V,South America,12500,5/6,0
+Fish TV,Star One C3,4158 H,South America,4583,5/6,0
+TV Méxiquense,QuetzSat 1,12276 R,Conus,10500,3/4,null
+TV Mirante,Star One D1,3908 H,Brazil C,8333,3/4,0
+TV Encontro das Águas,Star One D1,3925 H,Brazil C,4665,5/6,0
+Rede Massa,Star One D1,3966 H,Brazil C,14235,3/4,0
+TV Cultura do Pará,Star One D1,3984 H,Brazil C,5000,3/4,0
+TV Assembléia Piauí,Star One D1,4045 V,Brazil C,5000,3/4,0
+NET,Star One D1,4140 V,Brazil C,30000,5/6,0
+TV PE,Star One D1,4170 V,Brazil C,5000,2/3,0
+Televisa,Galaxy 19,4140 H,C,34286,5/6,0
+Televisa,Eutelsat 117 West A,3985 V,Hemi C,7500,2/3,null
+Grupo Radio Centro,Eutelsat 115 West B,4118 H,Hemi,1550,null,0
+Canal 10 Chiapas,Eutelsat 115 West B,4124 H,Hemi,3609,3/4,0
+Canal del Congreso 45.1,Eutelsat 115 West B,4141 V,Hemi,6666,3/4,0
+IKO MG,Measat 3a,4120 H,Global,30000,3/5,null
+IKO MG,Galaxy 18,4009 V,C,15000,3/4,0
+Trinity Broadcasting,Apstar 7,3844 V,C,4000,3/4,38.5
+Trinity Broadcasting,Galaxy 18,4040 V,C,30000,3/4,0
+Univisión,SES 18,4100 V,null,30000,3/4,null
+Univisión,Galaxy 18,4100 H,C,30000,3/4,0
+MLB Network,Galaxy 18,4120 V,C,30000,5/6,0
+GCI,Galaxy 30,3860 V,North America,30000,5/6,0
+GCI,Galaxy 30,3900 V,North America,30000,5/6,0
+GCI,Galaxy 37/Horizons 4,3940 H,North America C,30000,5/6,0
+GCI,Galaxy 37/Horizons 4,3980 H,North America C,30000,5/6,0
+ShopHQ,Galaxy 30,4011 V,North America,13750,3/4,0
+C-SPAN,Galaxy 30,4029 V,North America,16300,8/9,0
+AMC Networks,Galaxy 30,4060 V,North America,32700,5/6,0
+NBC Universal,SES 1,4160 V,North America C,30000,5/6,0
+NBC Universal,Galaxy 30,4080 H,North America,30000,5/6,0
+A+E Networks,Galaxy 30,4160 H,North America,30000,5/6,0
+Showtime HD East Plex 2,Galaxy 30,4180 V,North America,30000,5/6,0
+NASA TV,Galaxy 37/Horizons 4,4009 V,North America C,15000,5/6,0
+Starz,Galaxy 37/Horizons 4,4040 V,North America C,32500,3/4,0
+Starz,Galaxy 33,4100 V,North America C,32500,3/4,0
+Herring Networks,Galaxy 37/Horizons 4,4052 H,North America C,17500,5/6,0
+MBC America,Galaxy 37/Horizons 4,4070 H,North America C,3257,3/4,0
+SES,Apstar 7,3788 H,C,10700,1/2,38.5
+SES,Astra 2G,11095 V,West Africa,30000,5/6,0
+SES,Astra 2F,11635 V,West Africa,30000,5/6,0
+SES,Astra 2F,11675 H,West Africa,30000,5/6,0
+SES,Astra 2F,12605 V,West Africa,30000,5/6,0
+SES,Astra 3C,12032 H,West,27500,9/10,null
+SES,Astra 3C,12168 V,West,27500,3/4,null
+SES,Astra 1KR,10773 H,Europe,22000,3/4,0
+SES,Astra 1KR,10803 H,Europe,22000,3/4,0
+SES,Astra 1KR,10921 H,Europe,22000,7/8,0
+SES,Astra 1L,10994 H,Europe Ku,22000,5/6,0
+SES,Astra 1L,11112 H,Europe Ku,22000,2/3,0
+SES,Astra 1KR,11229 V,Europe,22000,2/3,0
+SES,Astra 1L,11288 V,Europe Ku,22000,2/3,0
+SES,Astra 1KR,11421 H,Europe,22000,5/6,0
+SES,Astra 1L,11553 H,Europe Ku,22000,2/3,0
+SES,Astra 1M,11739 V,Europe Wide,27500,3/4,47-49
+SES,Astra 1M,11778 V,Europe Wide,29500,9/10,47-49
+SES,Astra 1N,12148 H,Pan Europe,27500,3/4,0
+SES,Astra 1L,12226 H,Europe Ku,27500,3/4,0
+SES,Astra 1M,12344 H,Europe,30000,2/3,0
+SES,Astra 1M,12460 H,Europe,27500,3/4,0
+SES,Astra 1M,12480 V,Europe,27500,3/4,0
+SES,Astra 1N,12552 V,Pan Europe,22000,5/6,0
+SES,Astra 1L,12574 H,Europe Ku,22000,2/3,0
+SES,Astra 1N,12604 H,Pan Europe,22000,5/6,0
+SES,SES 5,11919 H,Sub Saharan Africa,27500,3/4,0
+SES,SES 5,12034 H,Sub Saharan Africa,27500,3/4,0
+SES,SES 5,12054 V,Sub Saharan Africa,30000,3/4,0
+SES,Astra 4A,12380 H,Europe BSS,27500,3/4,0-47
+SES,Thor 6,12092 H,K2,28000,7/8,0
+SES,Hispasat 30W-5,12052 H,America,27500,2/3,0
+SES,Telstar 11N,11482 H,Sub-Saharan Africa,11970,5/6,0
+SES,SES 14,4095 L,Europe & America,30000,2/3,36-38
+SES,Galaxy 19,11842 H,Ku,22000,3/4,0
+SES,SES 21,4180 H,North America,30000,5/6,0
+Media-Comm,Galaxy 33,4014 H,North America C,7500,3/4,0
+HBO The Works,Galaxy 33,4060 V,North America C,34286,2/3,0
+HBO The Works,Galaxy 33,4080 H,North America C,34286,2/3,0
+Bally Sports,Galaxy 33,4120 H,North America C,34286,3/4,0
+Bally Sports,Galaxy 33,4140 V,North America C,34286,3/4,0
+EWTN,Galaxy 33,4150 H,North America C,11936,3/4,0
+EWTN,Galaxy 33,4168 H,North America C,16303,1/2,0
+Big Ten Network,Galaxy 33,4180 V,North America C,31245,5/6,0
+In Demand,SES 22,4030 V,North America,15000,3/4,0
+ION Media Networks,SES 18,4040 H,null,30000,2/3,null
+ION Media Networks,SES 22,4180 H,North America,30000,5/6,0
